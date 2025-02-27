@@ -9,13 +9,18 @@ INvenTree is collating tree inventory datasets from disparate datasets across th
 
 ## How?
 
-<div align="center">
+::: {.r-stack}
+Collating tree data  
+Collaboriating among Indian scientists  
+Distilling novel insights  
+:::
+<!-- <div align="center">
 <strong>Collating</strong> tree data<br>
 
 <strong>Collaborating</strong> among Indian scientists<br>
 
 <strong>Distilling</strong> novel insights
-</div>
+</div> -->
 
 ![](assets/Fig1.png)
 
