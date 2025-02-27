@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Who We Are",
+    "section": "",
+    "text": "We are a team of researchers across institutions who have been volunteering our time. Write to us if you are interesting in joining.\n\n\nOur Values\n\n- FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n- Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n- Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n- Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nWorking group\n\nKrishna Anujan \nEcologist and communicator\nForestGEO and Smithsonian Institution\n\n\nNeha Mohanbabu \nPostdoctoral researcher\nUtrecht University\n\n\nAbhishek Gopal \nPhD Candidate\nCSIR Centre for Cellular and Molecular Biology\n\n\nAparna Krishnan \nPhD student\nNational Centre for Biological Sciences and Nature Conservation Foundation\n\n\nAnkitha Jayanth\nMS Ecology Student\nUniversity of South Bohemia\n\n\nTanaya Nair \nBiodiversity and Climate Change Early Career Researcher\nUniversity of Oxford\n\n Mahesh Sankaran \nNational Centre for Biological Sciences\n\n\n\n\nPast members\n\nAkshay Surendra\nShasank Ongole"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The INdia Tree Inventory Network (INvenTree)",
+    "section": "",
+    "text": "INvenTree is collating tree inventory datasets from disparate datasets across the country towards syntheses that will benefit ecological research and researchers."
+  },
+  {
+    "objectID": "index.html#how",
+    "href": "index.html#how",
+    "title": "The INdia Tree Inventory Network (INvenTree)",
+    "section": "How?",
+    "text": "How?\n\nCollating tree data\nCollaborating among Indian scientists\nDistilling novel insights"
+  },
+  {
+    "objectID": "index.html#why",
+    "href": "index.html#why",
+    "title": "The INdia Tree Inventory Network (INvenTree)",
+    "section": "Why",
+    "text": "Why\nOver the last few decades, Indian researchers have published over 450 papers using data from tree inventories across a large range of ecosystems.\nThese data have often been collected using standard methodologies and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection.\nWidening access to these data, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.\nRead our first preprint here"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Our first preprint is available on biorXiv now!\nHarmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology\nKrishna Anujan*, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran\nAbstract:\nGlobal analyses of tree diversity and function are strongly biased geographically, with poor representation from South Asian forests. Even though data from India - representing two-thirds of South Asia and spanning a wide range of tree-based biomes - exists, a barrier to syntheses is the absence of accessible and standardised data. Further, with increasing human footprint across ecosystems, data from Indian landscapes, with their long history of human-nature interactions is a key link to understand the future of tropical forested landscapes. Combining literature searches with manual data retrieval, we assembled INvenTree, the INdia Tree Inventory dataset, the largest meta-dataset of peer-reviewed publications (n = 465) from 1991-2023 on geolocated plot-based tree inventories of multispecies communities from Indian ecosystems, in aggregate covering 4653.64 ha and all of its vegetated biomes. Using the INvenTree dataset, we show extensive sampling across tropical moist and dry forests, the dominant ecosystem types in the country. We also identify ecological and conservation sampling priority regions based on forest cover and loss and set a blueprint for future sampling efforts in the country. However, most studies are small scale (median = 2 ha) and data across studies is not openly accessible (73.33 % of studies representing 83.43% of the sampled area), potentially hindering inclusion into regional or global syntheses. Significantly, we show majority authorship from within the country; 82.8% of corresponding authors were from India and 73.33% of the studies had all authors affiliated with Indian institutions. Based on extensive Indian scholarship in forest ecology showcased through the INvenTree dataset, we see opportunity for regional collaboration to create scientific inferences that are larger and scalable, while prioritising data and knowledge equity. Harmonising these datasets would contribute enormously to understanding the human dimension of tropical ecology as well as informing regional management and conservation.\nComing soon….\n\nRead a summary\nDownload full dataset\nExplore data"
+  }
+]

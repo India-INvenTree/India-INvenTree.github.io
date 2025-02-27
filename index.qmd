@@ -1,0 +1,32 @@
+---
+title: "The INdia Tree Inventory Network (INvenTree)"
+title-block-banner: "#6ab04c"
+toc: false
+---
+
+INvenTree is collating tree inventory datasets from disparate datasets across the country towards syntheses that will benefit ecological research and researchers.
+
+
+## How?
+
+<div align="center">
+<strong>Collating</strong> tree data<br>
+
+<strong>Collaborating</strong> among Indian scientists<br>
+
+<strong>Distilling</strong> novel insights
+</div>
+
+![](assets/Fig1.png)
+
+## Why
+
+Over the last few decades, Indian researchers have published *over 450 papers* using data from tree inventories across a large range of ecosystems.
+
+These data have often been collected **using standard methodologies** and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection. 
+
+**Widening access to these data**, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.
+
+Read our first preprint [here](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1)
+
+

@@ -1,0 +1,19 @@
+/* css styles */
+
+/* Change the background color of the navbar */
+.navbar {
+    background-color: #08392b;
+    /* Replace with your desired color */
+}
+
+/* Change the text color of the navbar links */
+.navbar a {
+    color: #ffffff;
+    /* Replace with your desired color */
+}
+
+/* Change the text color of the navbar links on hover */
+.navbar a:hover {
+    color: #cccccc;
+    /* Replace with your desired color */
+}
