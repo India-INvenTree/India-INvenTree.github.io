@@ -15,7 +15,7 @@ website:
           - text: "Working Group"
             href: team.qmd
           - text: "Members"
-            href: https://indiainventree.github.io/members/
+            href: https://india-inventree.github.io/members/
       - join.qmd
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
