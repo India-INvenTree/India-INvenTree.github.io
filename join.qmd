@@ -1,3 +1,5 @@
 ---
 title: "Get Involved"
+title-block-banner-color: "#ffffff"
+title-block-banner: "#6ab04c"
 ---

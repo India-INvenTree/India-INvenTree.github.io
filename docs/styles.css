@@ -1,5 +1,6 @@
 /* css styles */
 
+
 /* Change the background color of the navbar */
 .navbar {
     background-color: #08392b;
@@ -29,4 +30,24 @@
     /* Change this to your desired highlight color */
     color: #cccccc;
     /* Change this to your desired text color */
+}
+
+/* Change link colour */
+a {
+    /* color: #08392b; */
+    color: #6ab04c;
+    /* Replace with your desired color */
+}
+
+/* Change toc links color */
+a.toc-link {
+    /* color: #08392b; */
+    color: #6ab04c;
+    /* Replace with your desired color */
+}
+
+.sidebar-hl {
+    /* color: #08392b; */
+    color: #6ab04c;
+    /* Replace with your desired color */
 }

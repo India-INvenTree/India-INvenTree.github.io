@@ -3,6 +3,8 @@
 title: Resources
 title-block-banner: "#6ab04c"
 # permalink: /resources/
+title-block-banner-color: "#ffffff"
+
 ---
 
 [Our first preprint](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1) is available on biorXiv now!
