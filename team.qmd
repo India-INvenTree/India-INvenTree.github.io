@@ -54,8 +54,8 @@ University of South Bohemia\
 <br/>
 
 ![Tanaya Nair](assets/tanaya_nair.jpg){style="float: left;border-radius: 50%; width:120px; margin-right: 15px;"}  
-**Tanaya Nair** [{{< iconify bi simple-icons:researchgate size=1.1em title='Website' >}}](https://www.researchgate.net/profile/Tanaya-Nair)\
-Biodiversity and Climate Change Early Career Researcher\
+**Tanaya Nair** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.geog.ox.ac.uk/graduate/research/tnair.html)\
+PhD Student, School of Geography and the Environment\
 University of Oxford\
 <br/>
 
