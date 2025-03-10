@@ -24,47 +24,82 @@ Sharing tools and techniques among forest researchers in India.
 
 ### Working group
 
-![Krishna Anujan](assets/krishna_anujan.jpeg){style="float: left; border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}  
-**Krishna Anujan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://krishnaanujan.github.io)\
-Ecologist and communicator\
-ForestGEO and Smithsonian Institution\
-<br/>  
+::: {.grid}
+::: {.g-col-3}
+![](assets/krishna_anujan.jpeg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Krishna Anujan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://krishnaanujan.github.io)  
+Ecologist and communicator  
+ForestGEO and Smithsonian Institution  
+:::
+:::
 
-![Neha Mohanbabu](assets/nmb.jpg){style="float: left;border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}    
-**Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://neha-mohanbabu.weebly.com/)\
-Postdoctoral researcher\
-Utrecht University\
-<br/>  
+::: {.grid}
+::: {.g-col-3}
+![](assets/nmb.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://neha-mohanbabu.weebly.com/)  
+Postdoctoral researcher  
+Utrecht University  
+:::
+:::
 
-![Abhishek Gopal](assets/abhishek_gopal.jpg){style="float: left; border-radius: 50%; width:120px; display: block; margin-left: auto; margin-right: 15px;"}  
-**Abhishek Gopal** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)\
-PhD Candidate\
-CSIR Centre for Cellular and Molecular Biology\
-<br/>   
+::: {.grid}
+::: {.g-col-3}
+![](assets/abhishek_gopal.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Abhishek Gopal** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)  
+PhD Candidate  
+CSIR Centre for Cellular and Molecular Biology  
+:::
+:::
 
-![Aparna Krishnan](assets/aparna_krishnan.jpg){style="float: left;border-radius: 50%; width:120px;margin-right: 15px;"}  
-**Aparna Krishnan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)\
-PhD student\
-National Centre for Biological Sciences and Nature Conservation Foundation\
-<br/>  
+::: {.grid}
+::: {.g-col-3}
+![](assets/aparna_krishnan.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Aparna Krishnan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://sites.google.com/view/jahnavijoshi/team/phd-students?authuser=0#h.f6hb7mex66e5)  
+PhD student  
+National Centre for Biological Sciences and Nature Conservation Foundation  
+:::
+:::
 
-![Ankitha Jayanth](assets/ankitha_jayanth.jpg){style="float: left;border-radius: 50%; width:120px; margin-right: 15px;"}  
-**Ankitha Jayanth**\
-MS Ecology Student\
-University of South Bohemia\
-<br/>
+::: {.grid}
+::: {.g-col-3}
+![](assets/ankitha_jayanth.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Ankitha Jayanth**  
+MS Ecology Student  
+University of South Bohemia  
+:::
+:::
 
-![Tanaya Nair](assets/tanaya_nair.jpg){style="float: left;border-radius: 50%; width:120px; margin-right: 15px;"}  
-**Tanaya Nair** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.geog.ox.ac.uk/graduate/research/tnair.html)\
-PhD Student, School of Geography and the Environment\
-University of Oxford\
-<br/>
+::: {.grid}
+::: {.g-col-3}
+![](assets/tanaya_nair.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Tanaya Nair** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.geog.ox.ac.uk/graduate/research/tnair.html)  
+PhD Student, School of Geography and the Environment  
+University of Oxford  
+:::
+:::
 
-![Mahesh Sankaran](assets/mahesh_sankaran.jpg){style="float: left;border-radius: 50%; width:120px; margin-right: 15px;"}
-**Mahesh Sankaran** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.ncbs.res.in/faculty/mahesh)\
-National Centre for Biological Sciences\
-\
-<br/>
+::: {.grid}
+::: {.g-col-3}
+![](assets/mahesh_sankaran.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Mahesh Sankaran** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.ncbs.res.in/faculty/mahesh)  
+National Centre for Biological Sciences  
+:::
+:::
+
   
 
      

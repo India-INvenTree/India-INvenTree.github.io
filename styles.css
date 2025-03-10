@@ -51,3 +51,19 @@ a.toc-link {
     color: #6ab04c;
     /* Replace with your desired color */
 }
+
+/* Make images circular */
+.circular-photo {
+    border-radius: 50%;
+    width: 100%;
+    /* Adjust as needed */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+/* Center align text vertically in grid cell */
+.center-vertical {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
