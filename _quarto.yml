@@ -7,17 +7,21 @@ website:
   navbar:
     pinned: true
     left:
-      # - href: index.qmd
-      #   text: Home
-      - resources.qmd
-      - text: "Who We Are"
+      - href: resources.qmd
+        text: "Resources"
+        icon: "fa book"
+      - text: "People"
+        icon: "fa circle-user"
         menu:
           - text: "Working Group"
             href: team.qmd
           - text: "Member Directory {{< iconify bi cuia:open-in-new-tab-outline size=1.1em >}}"
-            href: https://india-inventree.github.io/members/
+            href: "https://india-inventree.github.io/members/"
             target: "_new"
-      - join.qmd
+            icon: "fa address-card"
+      - href: join.qmd
+        text: "<span class='btn btn-primary'>Click here</span>"
+        icon: "fa handshake"
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
         href: "mailto:indiainventree@gmail.com"
@@ -40,7 +44,7 @@ format:
     theme:
       # - cosmo
       - flatly
-      - brand
+      - custom.scss
     css: styles.css
     toc: true
 
