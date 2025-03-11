@@ -14,8 +14,9 @@ website:
         menu:
           - text: "Working Group"
             href: team.qmd
-          - text: "Members"
+          - text: "Member Directory {{< iconify bi cuia:open-in-new-tab-outline size=1.1em >}}"
             href: https://india-inventree.github.io/members/
+            target: "_new"
       - join.qmd
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
