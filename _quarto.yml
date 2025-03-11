@@ -9,20 +9,25 @@ website:
     left:
       - href: resources.qmd
         text: "Resources"
-        icon: "fa book"
+        icon: book
       - text: "People"
-        icon: "fa circle-user"
+        icon: person-circle
         menu:
           - text: "Working Group"
             href: team.qmd
+            # icon: list-check
+            # icon: puzzle-fill
+            icon: tools
           - text: "Member Directory {{< iconify bi cuia:open-in-new-tab-outline size=1.1em >}}"
             href: "https://india-inventree.github.io/members/"
             target: "_new"
-            icon: "fa address-card"
+            # icon: mortarboard-fill
+            icon: person-badge-fill
       - href: join.qmd
         # text: "<span class='btn btn-primary'>Click here</span>"
         text: "Get Involved"
-        icon: "fa handshake"
+        # icon: person-add
+        icon: sign-merge-left
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
         href: "mailto:indiainventree@gmail.com"
