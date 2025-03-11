@@ -10,7 +10,7 @@ INvenTree is collating tree inventory datasets from disparate datasets across th
 
 ## How?
 
-::: {.r-stack}
+::: {.r-stack .center-text}
 Collating tree data  
 Collaboriating among Indian scientists  
 Distilling novel insights  

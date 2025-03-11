@@ -67,3 +67,8 @@ a.toc-link {
     align-items: center;
     height: 100%;
 }
+
+/* Center align text within .r-stack */
+.center-text {
+    text-align: center;
+}
