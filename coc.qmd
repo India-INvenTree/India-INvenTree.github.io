@@ -1,6 +1,46 @@
 ---
-title: "Code of Conduct"
+title: "INvenTree Code of Conduct"
 # title-block-banner: "#6ab04c"
 # title-block-banner-color: "#ffffff"
 
 ---
+
+The India Tree Inventory Network (INvenTree) is a voluntary network of researchers working on collecting, collating, synthesising and publishing on tree inventories in India.  
+
+## When, where and to whom does this Code of Conduct apply?
+This document applies to all members of INvenTree  
+This code applies to all INvenTree events - both online and in-person - including ancillary interactions, communications and social gatherings whether or not they are officially funded through INvenTree.  
+
+## Purpose of this document
+This document is intended to ensure the safety of all members to foster mutual trust and to promote an inclusive, welcoming, and productive work environment. It does this by outlining best practices for interactions, reporting tools for when these are violated, and their consequences.  
+
+## Acceptable behaviours
+The following is a non-exhaustive list of behaviours essential for a safe, inclusive and welcoming environment.  
+
+### Expected behaviours:
+-  Treat all participants with respect, kindness and consideration.  
+- Acknowledge diversity of opinions in the group and engage in constructive conversations that may critique ideas but not individuals.  
+- Be considerate in your interactions with others. Consider if your choice of words can be perceived as insulting or discriminatory.   
+- Be mindful of your “air-time”. Be aware of the dynamics of power and privilege, and whether you may be taking advantage of it.  
+- Be mindful of your surroundings and of your fellow participants and respect their boundaries.   
+- Be aware of and respect the rules and policies of the meeting venue/ host organisation and funding agencies.  
+-  Members are also expected to adhere to INvenTree’s Data Sharing Policy and project specific Collaboration Agreements (will be collaboratively drafted).  
+  
+
+### Unacceptable behaviours
+- Harassment, intimidation or discrimination in any form is unacceptable. Harassment includes speech or behavior that is not welcome or is personally offensive. Behavior that is acceptable to one person may not be acceptable to another, so use discretion to be sure respect is communicated. Verbal harassment includes comments, epithets, slurs, threats, and negative stereotyping that are offensive, hostile, disrespectful, or unwelcome.  
+Non-verbal harassment includes actions or distribution, display, or discussion of any written or graphic material that ridicules, insults, belittles, or shows hostility, aversion, or disrespect toward a group or individual. The use of sexual and/or discriminatory images in public spaces or in presentations is also considered harassment.  
+- Examples of unacceptable behavior include—but are not limited to—unwelcome or offensive verbal comments related to age, appearance or body size, employment, career stage, ethnicity, gender identity and expression, individual lifestyle, marital status, national origin, physical or cognitive ability, political affiliation, sexual orientation, caste, race, or religion.  
+- Retaliation and reporting an incident in bad faith both undermine the safe, productive and welcoming environment we are striving to create and will also be subject to consequences.
+
+## Consequences
+The organising committee of the INvenTree reserves the right to enforce this Code of Conduct in any manner deemed appropriate. Anyone violating this Code of Conduct will first be asked to cease these behaviours. Failure to comply with requests can result in more severe consequences including, but not limited to, expulsion from current meeting and prohibition from future meetings.  
+
+## Reporting
+You can report any violations to this code by writing to INvenTree email(inventree@gmail.com), Krishna Anujan(krishna.anujan@gmail.com), Neha Mohanbabu (nehamohanbabu@gmail.com). You can also report to the organisers of the particular meeting.  
+
+## Disclaimers
+
+Given our limitations, INvenTree cannot be responsible for the actions of INvenTree members outside of the INvenTree context, although we hope that members abide by respectful behaviours through all their professional and personal interactions. INvenTree also reserves the right to revise this Code of Conduct as needed.
+
+This document has been adapted from various sources including [LTER](https://lternet.edu/code-of-conduct/) and [NCEAS]( https://www.nceas.ucsb.edu/sites/default/files/2021-11/NCEAS_Code-of-Conduct_Nov2021_0.pdf)

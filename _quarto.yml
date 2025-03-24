@@ -39,10 +39,10 @@ website:
     border: true
     left: "&#169; 2025 INvenTree"
     center:
-      - text: Code of conduct
+      - text: "[Code of Conduct](coc.qmd)"
         href: coc.qmd
         icon: check-circle
-      - text: Accessibility
+      - text: "Accessibility"
         href: accessibility.qmd
         icon: universal-access-circle
       # - text: License
