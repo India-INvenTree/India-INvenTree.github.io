@@ -24,16 +24,6 @@ We aim to make all our processes transparent and reproducible through GitHub.
 #### [:Collaborative learning](#Collaborative-learning)
 Sharing tools and techniques among forest researchers in India.
 
-<!-- {{< dtext "Making forest data from India Findable, Accessible, Interoperable and Reusable. 
-[Read more](https://www.go-fair.org/fair-principles/) about the FAIR guidelines." summary="FAIR data" >}}   -->
-
-<!-- {{< dtext "Committing to data sharing practices that center data owners, especially in India." summary="Fair sharing" >}} -->
-
-<!-- {{< dtext "We aim to make all our processes transparent and reproducible through GitHub." summary="Reproducible methods" >}} -->
-
-<!-- {{< dtext "Sharing tools and techniques among forest researchers in India." summary="Collaborative learning" >}} -->
-
-
 ### Working group
 
 ::: {.grid}

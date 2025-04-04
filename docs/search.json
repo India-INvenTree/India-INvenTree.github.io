@@ -4,7 +4,7 @@
     "href": "team.html",
     "title": "Who We Are",
     "section": "",
-    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\n\n\n\n\nWorking group\n\n\n\n\n\nKrishna Anujan \nEcologist and communicator\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\nAbhishek Gopal \nPhD Candidate\nCSIR Centre for Cellular and Molecular Biology\n\n\n\n\n\n\n\nAparna Krishnan \nPhD student\nNational Centre for Biological Sciences and Nature Conservation Foundation\n\n\n\n\n\n\n\nAnkitha Jayanth\nMS Ecology Student\nUniversity of South Bohemia\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\n\n\n\n\nPast members\n\nAkshay Surendra\nShasank Ongole"
+    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nWorking group\n\n\n\n\n\nKrishna Anujan \nEcologist and communicator\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\nAbhishek Gopal \nPhD Candidate\nCSIR Centre for Cellular and Molecular Biology\n\n\n\n\n\n\n\nAparna Krishnan \nPhD student\nNational Centre for Biological Sciences and Nature Conservation Foundation\n\n\n\n\n\n\n\nAnkitha Jayanth\nMS Ecology Student\nUniversity of South Bohemia\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\n\n\n\n\nPast members\n\nAkshay Surendra\nShasank Ongole"
   },
   {
     "objectID": "join.html",
@@ -53,7 +53,7 @@
     "href": "coc.html#reporting",
     "title": "INvenTree Code of Conduct",
     "section": "Reporting",
-    "text": "Reporting\nYou can report any violations to this code by writing to INvenTree email(inventree@gmail.com), Krishna Anujan(krishna.anujan@gmail.com), Neha Mohanbabu (nehamohanbabu@gmail.com). You can also report to the organisers of the particular meeting."
+    "text": "Reporting\nYou can report any violations to this code by writing to INvenTree email (inventree@gmail.com), Krishna Anujan (krishna.anujan@gmail.com), Neha Mohanbabu (nehamohanbabu@gmail.com). You can also report to the organisers of the particular meeting."
   },
   {
     "objectID": "coc.html#disclaimers",
@@ -63,23 +63,16 @@
     "text": "Disclaimers\nGiven our limitations, INvenTree cannot be responsible for the actions of INvenTree members outside of the INvenTree context, although we hope that members abide by respectful behaviours through all their professional and personal interactions. INvenTree also reserves the right to revise this Code of Conduct as needed.\nThis document has been adapted from various sources including LTER and NCEAS"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The INdia Tree Inventory Network (INvenTree)",
-    "section": "",
-    "text": "INvenTree is collating tree inventory datasets from disparate datasets across the country towards syntheses that will benefit ecological research and researchers."
-  },
-  {
     "objectID": "index.html#how",
     "href": "index.html#how",
-    "title": "The INdia Tree Inventory Network (INvenTree)",
+    "title": "The INdia Tree Inventory Network: INvenTree",
     "section": "How?",
     "text": "How?\n\nCollating tree data\nCollaborating among Indian scientists\nDistilling novel insights"
   },
   {
     "objectID": "index.html#why",
     "href": "index.html#why",
-    "title": "The INdia Tree Inventory Network (INvenTree)",
+    "title": "The INdia Tree Inventory Network: INvenTree",
     "section": "Why",
     "text": "Why\nOver the last few decades, Indian researchers have published over 450 papers using data from tree inventories across a large range of ecosystems.\nThese data have often been collected using standard methodologies and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection.\nWidening access to these data, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.\nRead our first preprint here"
   },
