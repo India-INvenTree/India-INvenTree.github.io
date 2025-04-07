@@ -32,7 +32,7 @@ Sharing tools and techniques among forest researchers in India.
 :::
 ::: {.g-col-9 .center-vertical}
 **Krishna Anujan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://krishnaanujan.github.io)  
-Ecologist and communicator  
+Postdoctoral Fellow  
 ForestGEO and Smithsonian Institution  
 :::
 :::
