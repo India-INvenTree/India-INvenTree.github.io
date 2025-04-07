@@ -102,11 +102,12 @@ National Centre for Biological Sciences
 :::
 :::
 
+[Browse our member directory here.](https://inventree.github.io/members/)
   
-
+<!-- 
      
 
 ### Past members
 
 1. Akshay Surendra
-2. Shasank Ongole
+2. Shasank Ongole -->
