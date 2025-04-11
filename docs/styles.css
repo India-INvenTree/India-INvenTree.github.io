@@ -38,15 +38,13 @@
 } */
 
 /* Change toc links color */
-a.toc-link {
+/* a.toc-link {
     color: #6ab04c;
-}
+} */
 
-.sidebar-hl {
-    /* color: #08392b; */
+/* .sidebar-hl {
     color: #6ab04c;
-    /* Replace with your desired color */
-}
+} */
 
 /* Make images circular */
 .circular-photo {
@@ -67,13 +65,4 @@ a.toc-link {
 /* Center align text within .r-stack */
 .center-text {
     text-align: center;
-}
-
-/* define named colours */
-:root {
-    --primary-color: #08392b;
-    --secondary-color: #6ab04c;
-    --blue-green: #2e8b7d;
-    --brown: #7d6a2a;
-
 }
