@@ -33,17 +33,13 @@
 }
 
 /* Change link colour */
-a {
-    /* color: #08392b; */
+/* a {
     color: #6ab04c;
-    /* Replace with your desired color */
-}
+} */
 
 /* Change toc links color */
 a.toc-link {
-    /* color: #08392b; */
     color: #6ab04c;
-    /* Replace with your desired color */
 }
 
 .sidebar-hl {
