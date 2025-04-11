@@ -1,7 +1,7 @@
 ---
 # layout: page
 title: Resources
-title-block-banner: "#6ab04c"
+title-block-banner: "#7d6a2a"
 # permalink: /resources/
 title-block-banner-color: "#ffffff"
 

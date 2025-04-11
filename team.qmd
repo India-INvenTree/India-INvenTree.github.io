@@ -1,7 +1,6 @@
 ---
 title: "Who We Are"
-title-block-banner: "#6ab04c"
-# title-block-banner: "#b0ad4c"
+title-block-banner: "#7d6a2a"
 title-block-banner-color: "#ffffff"
 filters:
   - nutshell
