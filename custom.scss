@@ -1,2 +1,14 @@
 /*-- scss:defaults --*/
-$link-color: #6ab04c;
+// $link-color: #6ab04c;
+$link-color: #7d6a2a;
+$primary-color: #08392b;
+
+/*-- scss:rules --*/
+/* define named colours */
+:root {
+    --primary-color: #08392b;
+    --secondary-color: #6ab04c;
+    --blue-green: #2e8b7d;
+    --brown: #7d6a2a;
+
+}

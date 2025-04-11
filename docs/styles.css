@@ -72,3 +72,12 @@ a.toc-link {
 .center-text {
     text-align: center;
 }
+
+/* define named colours */
+:root {
+    --primary-color: #08392b;
+    --secondary-color: #6ab04c;
+    --blue-green: #2e8b7d;
+    --brown: #7d6a2a;
+
+}
