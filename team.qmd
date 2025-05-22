@@ -102,7 +102,7 @@ National Centre for Biological Sciences
 :::
 :::
 
-[Browse our member directory here.](https://inventree.github.io/members/)
+[Browse our member directory here.](https://india-inventree.github.io/members/)
   
 <!-- 
      
