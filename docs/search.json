@@ -9,23 +9,9 @@
   {
     "objectID": "privacy.html",
     "href": "privacy.html",
-    "title": "Attribution and Privacy Policy",
+    "title": "Privacy Policy",
     "section": "",
-    "text": "This wesite has been created by the INvenTree team using several open-source tools and resources. Here is a list that we have used:\n1. Quarto\n2. Bootswatch\n3. Font Awesome\n4. Iconify\n5. Google Analytics\n6. GitHub Pages\n7. Andrew Heiss’s CC-BY Quarto website\n8. Nutshell"
-  },
-  {
-    "objectID": "privacy.html#atrribution",
-    "href": "privacy.html#atrribution",
-    "title": "Attribution and Privacy Policy",
-    "section": "",
-    "text": "This wesite has been created by the INvenTree team using several open-source tools and resources. Here is a list that we have used:\n1. Quarto\n2. Bootswatch\n3. Font Awesome\n4. Iconify\n5. Google Analytics\n6. GitHub Pages\n7. Andrew Heiss’s CC-BY Quarto website\n8. Nutshell"
-  },
-  {
-    "objectID": "privacy.html#privacy-policy",
-    "href": "privacy.html#privacy-policy",
-    "title": "Attribution and Privacy Policy",
-    "section": "Privacy Policy",
-    "text": "Privacy Policy\nThis website is maintained by the INvenTree team. The website does not collect any personal data from its users. But the website uses Google Analytics to collect information about how visitors use the site."
+    "text": "This website is maintained by the INvenTree team. The website does not collect any personal data from its users. But the website uses Google Analytics to collect information about how visitors use the site."
   },
   {
     "objectID": "index.html#how",
@@ -40,6 +26,13 @@
     "title": "The INdia Tree Inventory Network: INvenTree",
     "section": "Why",
     "text": "Why\nOver the last few decades, Indian researchers have published over 450 papers using data from tree inventories across a large range of ecosystems.\nThese data have often been collected using standard methodologies and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection.\nWidening access to these data, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.\nRead our first preprint here"
+  },
+  {
+    "objectID": "attribution.html",
+    "href": "attribution.html",
+    "title": "Attribution",
+    "section": "",
+    "text": "This website has been created by the INvenTree team using several open-source tools and resources. Here is a list that we have used:\n1. Quarto\n2. Bootswatch\n3. Font Awesome\n4. Iconify\n5. Google Analytics\n6. GitHub Pages\n7. Andrew Heiss’s CC-BY Quarto website\n8. Nutshell"
   },
   {
     "objectID": "coc.html",

@@ -39,15 +39,18 @@ website:
   page-footer:
     border: true
     left: "&#169; 2025 INvenTree"
-    center:
-      - text: "[Code of Conduct](coc.qmd)"
-        href: coc.qmd
-        icon: check-circle
-      - text: "[Attribution & Privacy](privacy.qmd)"
-        href: privacy.qmd
-      - text: "[Accessibility](accessibility.qmd)"
-        href: accessibility.qmd
-        icon: universal-access-circle
+    center: "[Code of Conduct](coc.qmd) | [Attribution](attribution.qmd) | [Privacy](privacy.qmd) | [Accessibility](accessibility.qmd)"
+      # - text: "[Code of Conduct](coc.qmd)"
+      #   href: coc.qmd
+      #   icon: check-circle
+      # - text: "   "
+      # - text: "[Attribution  ](attribution.qmd)"
+      #   href: attribution.qmd
+      # - text: "[Privacy  ](privacy.qmd)"
+      #   href: privacy.qmd
+      # - text: "[Accessibility](accessibility.qmd)"
+      #   href: accessibility.qmd
+      #   icon: universal-access-circle
       # - text: License
       #   href: license.qmd
     right: "made with ︎♥️ & [Quarto](https://quarto.org)"

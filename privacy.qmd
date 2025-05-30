@@ -1,22 +1,6 @@
 ---
-title: "Attribution and Privacy Policy"
+title: "Privacy Policy"
 ---
-
-## Atrribution
-
-This wesite has been created by the INvenTree team using several open-source tools and resources. 
-Here is a list that we have used:  
-1. [Quarto](https://quarto.org/)  
-2. [Bootswatch](https://bootswatch.com/)  
-3. [Font Awesome](https://fontawesome.com/)  
-4. [Iconify](https://iconify.design/)  
-5. [Google Analytics](https://analytics.google.com/)  
-6. [GitHub Pages](https://pages.github.com/)  
-7. [Andrew Heiss's CC-BY Quarto website](https://www.andrewheiss.com/)  
-8. [Nutshell](https://ncase.me/nutshell/)  
-
-
-## Privacy Policy
 
 This website is maintained by the INvenTree team. 
 The website does not collect any personal data from its users. 
