@@ -43,6 +43,8 @@ website:
       - text: "[Code of Conduct](coc.qmd)"
         href: coc.qmd
         icon: check-circle
+      - text: "Attribution & Privacy"
+        href: privacy.qmd
       - text: "Accessibility"
         href: accessibility.qmd
         icon: universal-access-circle
