@@ -4,6 +4,7 @@ project:
 
 website:
   title: "INvenTree"
+  google-analytics: "G-PVM7NFRLL8"
   navbar:
     pinned: true
     left:
