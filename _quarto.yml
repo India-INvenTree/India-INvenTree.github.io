@@ -15,9 +15,10 @@ website:
             text: "Publications"
             # icon: folder-fill
             icon: bookmark
-          - href: "https://tinyurl/inventreeapp"
+          - href: "https://tinyurl.com/inventreeapp"
             text: Paper Explorer
-            icon: compass        
+            icon: compass
+            target: "_new"        
       - text: "People"
         icon: person-circle
         menu:
