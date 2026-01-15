@@ -8,9 +8,16 @@ website:
   navbar:
     pinned: true
     left:
-      - href: resources.qmd
-        text: "Resources"
+      - text: "Resources"
         icon: book
+        menu: 
+          - href: resources.qmd
+            text: "Publications"
+            # icon: folder-fill
+            icon: bookmark
+          - href: "https://tinyurl/inventreeapp"
+            text: Paper Explorer
+            icon: compass        
       - text: "People"
         icon: person-circle
         menu:
