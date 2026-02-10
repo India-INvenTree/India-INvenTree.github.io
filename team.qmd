@@ -48,7 +48,7 @@ Utrecht University
 :::
 :::
 
-::: {.grid}
+<!-- ::: {.grid}
 ::: {.g-col-3}
 ![](assets/abhishek_gopal.jpg){.circular-photo}
 :::
@@ -57,7 +57,7 @@ Utrecht University
 PhD Candidate  
 CSIR Centre for Cellular and Molecular Biology  
 :::
-:::
+::: -->
 
 ::: {.grid}
 ::: {.g-col-3}

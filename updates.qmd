@@ -1,0 +1,15 @@
+---
+title: Updates
+listing: 
+    contents: 
+        - "posts/*.qmd"
+    type: default
+    fields: [image, title, categories]
+    categories: true
+    # grid-columns: 4
+    # image-height: 160px
+    image-placeholder: "posts/placeholder.png"
+    # page-size: 20
+title-block-banner-color: "#ffffff"
+title-block-banner: "#7d6a2a"
+---

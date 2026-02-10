@@ -1,0 +1,87 @@
+---
+title: "India Tree Inventory Network (INvenTree)"
+subtitle: "Newsletter Issue 1 - August 2025"
+format: 
+    # pdf:
+    #     mainfont: "Helvetica"
+    html:
+        mainfont: "Agalumbo"
+        include-in-header:
+        - text: |
+            /* Color links */
+            #show link: set text(fill: rgb(100, 150, 100))
+citeproc: true
+bibliography: member-pubs.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+# urlcolor: "#08392b"
+fontsize: 11pt
+margin-left: 0.5cm
+margin-right: 0.5cm
+# margin-top: 1.5cm
+---
+
+<!-- :::{.block fill=rgb("#08392b") inset="8pt" radius="4pt" width="100%"}
+::: -->
+
+:::{.block fill=rgb("#7d6a2a") inset="8pt" radius="4pt" width="100%"}
+:::
+
+# Welcome to the inaugural issue of the INvenTree Newsletter!
+
+Welcome to the first newsletter of the India Tree Inventory Network! 
+We are starting this newsletter to keep the community updated on working group activities, new members and new and relevant publications by researchers in the network. 
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+**Welcome to new members!**   
+Please join us in welcoming new members to the group! Dr. Snehalatha Vadigi, Independent Researcher, Chengappa S K, Programme Manager at NCBS,  Raghavendra H V, Site Coordinator at NCBS, Dr. Rajiv Chaturvedi, Associate Professor at BITS Pilani, Goa, Karun Jose, PhD candidate, BITS-Pilani, Goa, and Nasla Najeeb, PhD candidate, BITS-Pilani, Goa have joined us. 
+
+Do check out our [member directory](https://india-inventree.github.io/members/) to see the full list of members and their affiliations.
+
+:::
+
+<!-- :::{.block fill=rgb("#7d6a2a") inset="8pt" radius="4pt" width="100%"}
+::: -->
+
+:::{.square fill=rgb("#08392b")}
+:::
+
+# Subcommittee Updates
+
+## Network Building
+Members: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran  
+
+This working group is focussed on building the network and engaging with members. Updates from this year include:  
+1. **Website**: We have launched [our website](https://india-inventree.github.io) which serves as a hub for information about the network, its members, and activities.   
+2. **Membership Drive**: We have successfully grown our community to ~30 members from various institutions. We also launched our [member directory](https://india-inventree.github.io/members/) to showcase the tree inventory community in India and to invite collaborations.  
+3. **Newsletter**: This is the first issue of our newsletter, which will be published periodically to keep everyone informed about the network's activities.  
+
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+Planned activities:  
+**In-person meeting**: We are planning an in-person meeting in the coming months to foster collaboration and networking among members. Stay tuned for details!  
+
+:::
+
+## Public Data
+Members: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan  
+
+This working group is focused on making collated datasets accessible and reusable. Current and planned projects:  
+1. **Shiny app**: We are developing a Shiny app to visualize and explore tree inventory data. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs.  
+2. **Zotero public library**: We are working on a Zotero public library to share details of the publications that form the basis of the INvenTree metadataset. This will help members and the public discover and access tree inventory based research from India.  
+
+------------------
+
+# Recent Publications from members 
+1. @jose_unraveling_2025
+2. @jose_woody_2025
+3. @najeeb_presence_2025
+
+:::{.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+## Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we'll send it around!
+
+:::
+
