@@ -32,6 +32,9 @@ website:
             # target: "_new"
             # icon: mortarboard-fill
             icon: person-badge-fill
+      - href: updates.qmd
+        text: "Updates"
+        icon: newspaper
       - href: join.qmd
         # text: "<span class='btn btn-primary'>Click here</span>"
         text: "Get Involved"
