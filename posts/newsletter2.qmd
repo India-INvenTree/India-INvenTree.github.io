@@ -1,0 +1,78 @@
+---
+# title: "India Tree Inventory Network (INvenTree)"
+title: "Newsletter Issue 2 - December 2025"
+format: html
+categories:
+ - newsletter
+citeproc: true
+bibliography: member-pubs.bib
+csl: apa-cv.csl
+suppress-bibliography: true
+# urlcolor: "#08392b"
+fontsize: 11pt
+margin-left: 0.5cm
+margin-right: 0.5cm
+# margin-top: 1.5cm
+---
+
+<!-- :::{.block fill=rgb("#08392b") inset="8pt" radius="4pt" width="100%"}
+::: -->
+
+:::{.block fill=rgb("#7d6a2a") inset="8pt" radius="4pt" width="100%"}
+:::
+
+# Greetings from the India Tree Inventory Network! 
+With this periodical, we hope to keep the community updated on working group activities, new members and new and relevant publications by researchers in the network. 
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+**Welcome to new members!**   
+Please join us in welcoming new members to the group! Srinivasan Kasinathan, Nature Conservation Foundation and Dr. Meghna Krishnadas, National Centre for Biological Sciences have joined us. 
+
+Do check out our [member directory](https://india-inventree.github.io/members/) to see the full list of members and their affiliations.
+
+:::
+
+<!-- :::{.block fill=rgb("#7d6a2a") inset="8pt" radius="4pt" width="100%"}
+::: -->
+
+:::{.square fill=rgb("#08392b")}
+:::
+
+# Subcommittee Updates
+
+## Network Building
+Members: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran  
+
+This working group is focussed on building the network and engaging with members. Updates include:  
+1. **In-person meeting**: The first in-person meeting of the India Tree Inventory Network will be held at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. This meeting aims to foster collaboration and networking among members.   
+2. **Meeting grant**: The network received a meeting grant from the Anusandhan National Research Foundation (ANRF) to support the in-person meeting and related activities. This is the first grant received by the network!  
+ 
+
+
+::: {.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+Planned activities:  
+**Periodic meetings**: We plan to hold periodic meetings (in-person/virtual) to keep members engaged and updated on network activities. We will discuss the formats and needs further at the upcoming in-person meeting.
+
+:::
+
+## Data Visibility and Accessibility
+Members: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan  
+
+This working group is focused on making collated datasets accessible and reusable. Current and planned projects:  
+1. **Shiny app**: A working version of a Shiny app to visualize and explore tree inventory data has been created. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs. This app will be launched and tested at the upcoming in-person meeting.  
+2. **Collating plot metadata:** This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to [indiainventree@gmail.com](mailto:indiainventree@gmail.com) for details. 
+
+------------------
+
+# Recent Publications from members 
+1. @biswas_chronic_2025
+2. @murali_structure_2025
+
+:::{.block fill="luma(230)" inset="8pt" radius="4pt"}
+
+## Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we'll send it around!
+
+:::
+

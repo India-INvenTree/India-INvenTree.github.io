@@ -1,6 +1,8 @@
 ---
 # title: "India Tree Inventory Network (INvenTree)"
 title: "Newsletter Issue 1 - August 2025"
+categories:
+ - newsletter
 # format: html
     # pdf:
     #     mainfont: "Helvetica"
