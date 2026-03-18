@@ -15,7 +15,7 @@ website:
             text: "Publications"
             # icon: folder-fill
             icon: bookmark
-          - href: "https://tinyurl.com/inventreeapp"
+          - href: "https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/"
             text: Paper Explorer
             icon: compass
             target: "_new"        
