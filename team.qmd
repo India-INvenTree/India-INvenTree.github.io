@@ -59,7 +59,7 @@ CSIR Centre for Cellular and Molecular Biology
 :::
 ::: -->
 
-::: {.grid}
+<!-- ::: {.grid}
 ::: {.g-col-3}
 ![](assets/aparna_krishnan.jpg){.circular-photo}
 :::
@@ -68,9 +68,9 @@ CSIR Centre for Cellular and Molecular Biology
 PhD student  
 National Centre for Biological Sciences and Nature Conservation Foundation  
 :::
-:::
+::: -->
 
-::: {.grid}
+<!-- ::: {.grid}
 ::: {.g-col-3}
 ![](assets/ankitha_jayanth.jpg){.circular-photo}
 :::
@@ -79,7 +79,7 @@ National Centre for Biological Sciences and Nature Conservation Foundation
 MS Ecology Student  
 University of South Bohemia  
 :::
-:::
+::: -->
 
 ::: {.grid}
 ::: {.g-col-3}
@@ -94,6 +94,29 @@ University of Oxford
 
 ::: {.grid}
 ::: {.g-col-3}
+![](assets/nasla_najeeb.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Nasla Najeeb**  
+PhD Candidate  
+BITS Pilani Goa Campus
+:::
+:::
+
+::: {.grid}
+::: {.g-col-3}
+![](assets/karun_jose.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Karun Jose**  
+PhD  
+BITS Pilani Goa Campus
+:::
+:::
+
+
+::: {.grid}
+::: {.g-col-3}
 ![](assets/mahesh_sankaran.jpg){.circular-photo}
 :::
 ::: {.g-col-9 .center-vertical}
@@ -102,7 +125,11 @@ National Centre for Biological Sciences
 :::
 :::
 
-[Browse our member directory here.](https://india-inventree.github.io/members/)
+Our current work is built on the incredible foundation laid by many others.
+
+[View past members](https://india-inventree.github.io/members/#category=past%20working%20group){.btn .btn-primary}
+
+[Browse full member directory](https://india-inventree.github.io/members/){.btn .btn-primary}
   
 <!-- 
      
