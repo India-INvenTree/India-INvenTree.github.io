@@ -21,6 +21,10 @@ fontsize: 11pt
 margin-left: 0.5cm
 margin-right: 0.5cm
 # margin-top: 1.5cm
+# title-block-banner: assets/trees_small.jpg
+# title-block-banner: assets/cc_malabaricus.jpg
+title-block-banner: assets/cc_forest_walk_crop.jpg
+title-block-banner-color: "#080000"
 ---
 
 <!-- :::{.block fill=rgb("#08392b") inset="8pt" radius="4pt" width="100%"}

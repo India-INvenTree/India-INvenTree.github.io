@@ -3,3 +3,5 @@ title: "First INvenTree meeting conducted!"
 categories: 
  - general
 ---
+
+![INvenTree meeting](assets/meeting_photo_day2.jpg)

@@ -98,7 +98,7 @@ University of Oxford
 :::
 ::: {.g-col-9 .center-vertical}
 **Nasla Najeeb**  
-PhD Candidate  
+PhD Scholar  
 BITS Pilani Goa Campus
 :::
 :::
@@ -109,8 +109,8 @@ BITS Pilani Goa Campus
 :::
 ::: {.g-col-9 .center-vertical}
 **Karun Jose**  
-PhD  
-BITS Pilani Goa Campus
+Project Scientist  
+Institute for Climate Change Studies
 :::
 :::
 
@@ -125,12 +125,14 @@ National Centre for Biological Sciences
 :::
 :::
 
+::: {.center-text}
+
 Our current work is built on the incredible foundation laid by many others.
 
 [View past members](https://india-inventree.github.io/members/#category=past%20working%20group){.btn .btn-primary}
 
 [Browse full member directory](https://india-inventree.github.io/members/){.btn .btn-primary}
-  
+::: 
 <!-- 
      
 
