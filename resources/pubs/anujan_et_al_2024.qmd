@@ -49,17 +49,17 @@ pub-info:
   links:
     - name: Preprint
       url: mfxplainer.pdf
-      icon: fa-solid fa-file-pdf
+      icon: iconify mdi:file
       local: true
     - name: Final version
       url: https://doi.org/10.18637/jss.v111.i09
       icon: fa-solid fa-scroll
     - name: Code
       url: https://github.com/vincentarelbundock/mfxplainer
-      icon: fa-brands fa-github
+      icon: iconify mdi:github
     - name: Add to Zotero
       url: https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09
-      icon: ai ai-zotero
+      icon: iconify academicons:zotero-square
 doi: 10.1101/2024.05.18.594774v1
 css: styles.css
 ---
@@ -67,7 +67,7 @@ css: styles.css
 ## Important links
 
 - [Paper (preprint)](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1)
-- [GitHub repository](https://github.com/vincentarelbundock/mfxplainer)
+<!-- - [GitHub repository](https://github.com/vincentarelbundock/mfxplainer) -->
 - [Dataset](https://doi.org/10.5281/zenodo.1234567)
 
 
@@ -81,17 +81,18 @@ Global analyses of tree diversity and function are strongly biased geographicall
 ## Citation
 
 <p class="buttons" style="text-align:center;">
-<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09">{{< iconify academicons:zotero-square >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
 </p>
 
 ```bibtex
-@article{Arel-BundockGreiferHeiss:2024,
-    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},
-    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},
-    doi = {10.18637/jss.v111.i09},
-    journal = {Journal of Statistical Software},
-    year = {2024},
-    volume = {111},
-    number = {9},
-    pages = {1–32}}
+@article{anujan_harmonising_inminorrevision,
+  title = {Harmonising Distributed Tree Inventory Datasets across {{India}} Can Fill Critical Gaps in Tropical Ecology},
+  author = {Anujan, Krishna and Mohanbabu, Neha and Gopal, Abhishek and Surendra, Akshay and Krishnan, Aparna and Jayanth, Ankita and Nair, Tanaya and Ongole, Shasank and Sankaran, Mahesh},
+  year = {in minor revision},
+  journal = {Biotropica},
+  doi = {10.1101/2024.05.18.594774},
+  urldate = {2024-09-08},
+  copyright = {All rights reserved},
+  langid = {english}
+}
 ```

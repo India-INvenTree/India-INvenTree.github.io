@@ -45,21 +45,21 @@ author:
 #   - prediction
 pub-info:
   reference: >-
-    <a href="https://arelbundock.com/">Krishna Anujan</a>, <a href="https://ngreifer.github.io/">Neha Mohanbabu</a>, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> in revision (2025), doi: <a href="https://doi.org/10.1101/2024.05.18.594774v1"><code>10.1101/2024.05.18.594774v1</code></a>
+    Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “INvenTree metadataset: publications on plot-based tree inventories from India” <em>Zenodo</em>(2025), doi: <a href="https://doi.org/10.5281/zenodo.15358405"><code>10.5281/zenodo.15358405</code></a>
   links:
-    - name: Preprint
-      url: mfxplainer.pdf
-      icon: fa-solid fa-file-pdf
-      local: true
-    - name: Final version
-      url: https://doi.org/10.18637/jss.v111.i09
-      icon: fa-solid fa-scroll
-    - name: Code
-      url: https://github.com/vincentarelbundock/mfxplainer
-      icon: fa-brands fa-github
+    # - name: Preprint
+    #   url: mfxplainer.pdf
+    #   icon: fa-solid fa-file-pdf
+    #   local: true
+    - name: Zenodo
+      url: https://doi.org/10.5281/zenodo.15358405
+      icon: iconify academicons:zenodo
+    - name: Github repo
+      url: https://github.com/India-INvenTree/metadataset
+      icon: iconify mdi:github
     - name: Add to Zotero
-      url: https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09
-      icon: ai ai-zotero
+      url: https://www.zotero.org/save?type=doi&q=10.5281/zenodo.15358405
+      icon: iconify academicons:zotero-square
 doi: 10.1101/2024.05.18.594774v1
 css: styles.css
 ---
@@ -69,6 +69,12 @@ css: styles.css
 - [GitHub repository](https://github.com/India-INvenTree/metadataset/tree/v1.0.0)
 - [Dataset](https://doi.org/10.5281/zenodo.1234567)
 
+
+:::{.center}
+
+[Explore this dataset through an interactive dashboard](https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/){.btn .btn-primary}
+
+:::
 
 <!-- ## Abstract
 
@@ -80,17 +86,20 @@ Global analyses of tree diversity and function are strongly biased geographicall
 ## Citation
 
 <p class="buttons" style="text-align:center;">
-<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.5281/zenodo.15358405">{{< iconify academicons:zotero-square >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
 </p>
 
 ```bibtex
-@article{Arel-BundockGreiferHeiss:2024,
-    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},
-    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},
-    doi = {10.18637/jss.v111.i09},
-    journal = {Journal of Statistical Software},
-    year = {2024},
-    volume = {111},
-    number = {9},
-    pages = {1–32}}
+@misc{anujan_inventree_2025,
+  title = {{{INvenTree}} Metadataset: Publications on Plot-Based Tree Inventories from {{India}}},
+  shorttitle = {{{INvenTree}} Metadataset},
+  author = {Anujan, Krishna and Mohanbabu, Neha and Gopal, Abhishek and Surendra, Akshay and Krishnan, Aparna and Jayanth, Ankitha and Nair, Tanaya and Ongole, Shasank and Sankaran, Mahesh},
+  year = 2025,
+  month = may,
+  publisher = {Zenodo},
+  doi = {10.5281/ZENODO.15358405},
+  urldate = {2026-04-04},
+  abstract = {INvenTree metadataset: publications on plot-based tree inventories from India},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```

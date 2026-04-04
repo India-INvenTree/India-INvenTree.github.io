@@ -25,7 +25,7 @@
     "href": "resources.html#datasets",
     "title": "Publications",
     "section": "Datasets",
-    "text": "Datasets\n\n\n    \n        \n            \n                \n                    \n                        \n                            Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” Biotropica in revision (2025), doi: 10.1101/2024.05.18.594774v1\n                        \n                    \n                    \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                                    \n                                                        \n                                                            \n                                                                \n                                                                    \n                                                                                \n                                                                                Preprint\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Final version\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Code\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Add to Zotero\n                                                                        \n                                                        \n                                                        \n                                                            \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
+    "text": "Datasets\n\n\n    \n        \n            \n                \n                    \n                        \n                            Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “INvenTree metadataset: publications on plot-based tree inventories from India” Zenodo(2025), doi: 10.5281/zenodo.15358405\n                        \n                    \n                    \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                                    \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Zenodo\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Github repo\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Add to Zotero\n                                                                        \n                                                        \n                                                        \n                                                            \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
   },
   {
     "objectID": "resources/policies/coc.html",
@@ -200,7 +200,7 @@
     "href": "join.html",
     "title": "Get Involved",
     "section": "",
-    "text": "If you would like to Get Involved in working with INvenTree data, get in touch with us at"
+    "text": "If you work with tree inventories in India and would like to Get Involved With the India Tree Inventory Network, get in touch with us at"
   },
   {
     "objectID": "posts/meeting2026.html",
@@ -235,35 +235,35 @@
     "href": "resources/datasets/anujan_et_al_2025.html",
     "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
     "section": "",
-    "text": "GitHub repository\nDataset"
+    "text": "GitHub repository\nDataset\n\n\nExplore this dataset through an interactive dashboard"
   },
   {
     "objectID": "resources/datasets/anujan_et_al_2025.html#important-links",
     "href": "resources/datasets/anujan_et_al_2025.html#important-links",
     "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
     "section": "",
-    "text": "GitHub repository\nDataset"
+    "text": "GitHub repository\nDataset\n\n\nExplore this dataset through an interactive dashboard"
   },
   {
     "objectID": "resources/datasets/anujan_et_al_2025.html#citation",
     "href": "resources/datasets/anujan_et_al_2025.html#citation",
     "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
     "section": "Citation",
-    "text": "Citation\n\n{{&lt; ai zotero &gt;}} Add to Zotero \n\n@article{Arel-BundockGreiferHeiss:2024,\n    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},\n    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},\n    doi = {10.18637/jss.v111.i09},\n    journal = {Journal of Statistical Software},\n    year = {2024},\n    volume = {111},\n    number = {9},\n    pages = {1–32}}"
+    "text": "Citation\n\n Add to Zotero \n\n@misc{anujan_inventree_2025,\n  title = {{{INvenTree}} Metadataset: Publications on Plot-Based Tree Inventories from {{India}}},\n  shorttitle = {{{INvenTree}} Metadataset},\n  author = {Anujan, Krishna and Mohanbabu, Neha and Gopal, Abhishek and Surendra, Akshay and Krishnan, Aparna and Jayanth, Ankitha and Nair, Tanaya and Ongole, Shasank and Sankaran, Mahesh},\n  year = 2025,\n  month = may,\n  publisher = {Zenodo},\n  doi = {10.5281/ZENODO.15358405},\n  urldate = {2026-04-04},\n  abstract = {INvenTree metadataset: publications on plot-based tree inventories from India},\n  copyright = {Creative Commons Attribution 4.0 International}\n}"
   },
   {
     "objectID": "resources/pubs/anujan_et_al_2024.html",
     "href": "resources/pubs/anujan_et_al_2024.html",
     "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
     "section": "",
-    "text": "Paper (preprint)\nGitHub repository\nDataset"
+    "text": "Paper (preprint) \nDataset"
   },
   {
     "objectID": "resources/pubs/anujan_et_al_2024.html#important-links",
     "href": "resources/pubs/anujan_et_al_2024.html#important-links",
     "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
     "section": "",
-    "text": "Paper (preprint)\nGitHub repository\nDataset"
+    "text": "Paper (preprint) \nDataset"
   },
   {
     "objectID": "resources/pubs/anujan_et_al_2024.html#abstract",
@@ -284,7 +284,7 @@
     "href": "resources/pubs/anujan_et_al_2024.html#citation",
     "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
     "section": "Citation",
-    "text": "Citation\n\n{{&lt; ai zotero &gt;}} Add to Zotero \n\n@article{Arel-BundockGreiferHeiss:2024,\n    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},\n    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},\n    doi = {10.18637/jss.v111.i09},\n    journal = {Journal of Statistical Software},\n    year = {2024},\n    volume = {111},\n    number = {9},\n    pages = {1–32}}"
+    "text": "Citation\n\n Add to Zotero \n\n@article{anujan_harmonising_inminorrevision,\n  title = {Harmonising Distributed Tree Inventory Datasets across {{India}} Can Fill Critical Gaps in Tropical Ecology},\n  author = {Anujan, Krishna and Mohanbabu, Neha and Gopal, Abhishek and Surendra, Akshay and Krishnan, Aparna and Jayanth, Ankita and Nair, Tanaya and Ongole, Shasank and Sankaran, Mahesh},\n  year = {in minor revision},\n  journal = {Biotropica},\n  doi = {10.1101/2024.05.18.594774},\n  urldate = {2024-09-08},\n  copyright = {All rights reserved},\n  langid = {english}\n}"
   },
   {
     "objectID": "team.html",

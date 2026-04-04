@@ -4,5 +4,6 @@ title-block-banner-color: "#ffffff"
 title-block-banner: "#7d6a2a"
 ---
 
-If you would like to Get Involved in working with INvenTree data, get in touch with us at [
+If you work with tree inventories in India and would like to Get Involved With the India Tree Inventory Network, get in touch with us at [
 {{< iconify bi mdi:email size=1.1em title='Email' >}}](mailto:indiainventree@gmail.com)
+
