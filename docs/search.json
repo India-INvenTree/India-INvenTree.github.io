@@ -11,35 +11,119 @@
     "href": "resources.html",
     "title": "Publications",
     "section": "",
-    "text": "Our first preprint is available on biorXiv now!\nHarmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology\nKrishna Anujan*, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran\nAbstract:\nGlobal analyses of tree diversity and function are strongly biased geographically, with poor representation from South Asian forests. Even though data from India - representing two-thirds of South Asia and spanning a wide range of tree-based biomes - exists, a barrier to syntheses is the absence of accessible and standardised data. Further, with increasing human footprint across ecosystems, data from Indian landscapes, with their long history of human-nature interactions is a key link to understand the future of tropical forested landscapes. Combining literature searches with manual data retrieval, we assembled INvenTree, the INdia Tree Inventory dataset, the largest meta-dataset of peer-reviewed publications (n = 465) from 1991-2023 on geolocated plot-based tree inventories of multispecies communities from Indian ecosystems, in aggregate covering 4653.64 ha and all of its vegetated biomes. Using the INvenTree dataset, we show extensive sampling across tropical moist and dry forests, the dominant ecosystem types in the country. We also identify ecological and conservation sampling priority regions based on forest cover and loss and set a blueprint for future sampling efforts in the country. However, most studies are small scale (median = 2 ha) and data across studies is not openly accessible (73.33 % of studies representing 83.43% of the sampled area), potentially hindering inclusion into regional or global syntheses. Significantly, we show majority authorship from within the country; 82.8% of corresponding authors were from India and 73.33% of the studies had all authors affiliated with Indian institutions. Based on extensive Indian scholarship in forest ecology showcased through the INvenTree dataset, we see opportunity for regional collaboration to create scientific inferences that are larger and scalable, while prioritising data and knowledge equity. Harmonising these datasets would contribute enormously to understanding the human dimension of tropical ecology as well as informing regional management and conservation."
+    "text": "INvenTree makes several resources available to the public, including datasets, code, visualisations, and publications."
   },
   {
-    "objectID": "posts/newsletter2.html#network-building",
-    "href": "posts/newsletter2.html#network-building",
-    "title": "Newsletter Issue 2 - December 2025",
+    "objectID": "resources.html#journal-articles",
+    "href": "resources.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n    \n        \n            \n                \n                    \n                        \n                            Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” Biotropica in revision (2025), doi: 10.1101/2024.05.18.594774v1\n                        \n                    \n                    \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                                    \n                                                        \n                                                            \n                                                                \n                                                                    \n                                                                                \n                                                                                Preprint\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Final version\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Code\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Add to Zotero\n                                                                        \n                                                        \n                                                        \n                                                            \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources.html#datasets",
+    "href": "resources.html#datasets",
+    "title": "Publications",
+    "section": "Datasets",
+    "text": "Datasets\n\n\n    \n        \n            \n                \n                    \n                        \n                            Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” Biotropica in revision (2025), doi: 10.1101/2024.05.18.594774v1\n                        \n                    \n                    \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                                    \n                                                        \n                                                            \n                                                                \n                                                                    \n                                                                                \n                                                                                Preprint\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Final version\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Code\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Add to Zotero\n                                                                        \n                                                        \n                                                        \n                                                            \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources/policies/coc.html",
+    "href": "resources/policies/coc.html",
+    "title": "INvenTree Code of Conduct",
+    "section": "",
+    "text": "The India Tree Inventory Network (INvenTree) is a voluntary network of researchers working on collecting, collating, synthesising and publishing on tree inventories in India."
+  },
+  {
+    "objectID": "resources/policies/coc.html#when-where-and-to-whom-does-this-code-of-conduct-apply",
+    "href": "resources/policies/coc.html#when-where-and-to-whom-does-this-code-of-conduct-apply",
+    "title": "INvenTree Code of Conduct",
+    "section": "When, where and to whom does this Code of Conduct apply?",
+    "text": "When, where and to whom does this Code of Conduct apply?\nThis document applies to all members of INvenTree\nThis code applies to all INvenTree events - both online and in-person - including ancillary interactions, communications and social gatherings whether or not they are officially funded through INvenTree."
+  },
+  {
+    "objectID": "resources/policies/coc.html#purpose-of-this-document",
+    "href": "resources/policies/coc.html#purpose-of-this-document",
+    "title": "INvenTree Code of Conduct",
+    "section": "Purpose of this document",
+    "text": "Purpose of this document\nThis document is intended to ensure the safety of all members to foster mutual trust and to promote an inclusive, welcoming, and productive work environment. It does this by outlining best practices for interactions, reporting tools for when these are violated, and their consequences."
+  },
+  {
+    "objectID": "resources/policies/coc.html#acceptable-behaviours",
+    "href": "resources/policies/coc.html#acceptable-behaviours",
+    "title": "INvenTree Code of Conduct",
+    "section": "Acceptable behaviours",
+    "text": "Acceptable behaviours\nThe following is a non-exhaustive list of behaviours essential for a safe, inclusive and welcoming environment.\n\nExpected behaviours:\n\nTreat all participants with respect, kindness and consideration.\n\nAcknowledge diversity of opinions in the group and engage in constructive conversations that may critique ideas but not individuals.\n\nBe considerate in your interactions with others. Consider if your choice of words can be perceived as insulting or discriminatory.\n\nBe mindful of your “air-time”. Be aware of the dynamics of power and privilege, and whether you may be taking advantage of it.\n\nBe mindful of your surroundings and of your fellow participants and respect their boundaries.\n\nBe aware of and respect the rules and policies of the meeting venue/ host organisation and funding agencies.\n\nMembers are also expected to adhere to INvenTree’s Data Sharing Policy and project specific Collaboration Agreements (will be collaboratively drafted).\n\n\n\nUnacceptable behaviours\n\nHarassment, intimidation or discrimination in any form is unacceptable. Harassment includes speech or behavior that is not welcome or is personally offensive. Behavior that is acceptable to one person may not be acceptable to another, so use discretion to be sure respect is communicated. Verbal harassment includes comments, epithets, slurs, threats, and negative stereotyping that are offensive, hostile, disrespectful, or unwelcome.\nNon-verbal harassment includes actions or distribution, display, or discussion of any written or graphic material that ridicules, insults, belittles, or shows hostility, aversion, or disrespect toward a group or individual. The use of sexual and/or discriminatory images in public spaces or in presentations is also considered harassment.\n\nExamples of unacceptable behavior include—but are not limited to—unwelcome or offensive verbal comments related to age, appearance or body size, employment, career stage, ethnicity, gender identity and expression, individual lifestyle, marital status, national origin, physical or cognitive ability, political affiliation, sexual orientation, caste, race, or religion.\n\nRetaliation and reporting an incident in bad faith both undermine the safe, productive and welcoming environment we are striving to create and will also be subject to consequences."
+  },
+  {
+    "objectID": "resources/policies/coc.html#consequences",
+    "href": "resources/policies/coc.html#consequences",
+    "title": "INvenTree Code of Conduct",
+    "section": "Consequences",
+    "text": "Consequences\nThe organising committee of the INvenTree reserves the right to enforce this Code of Conduct in any manner deemed appropriate. Anyone violating this Code of Conduct will first be asked to cease these behaviours. Failure to comply with requests can result in more severe consequences including, but not limited to, expulsion from current meeting and prohibition from future meetings."
+  },
+  {
+    "objectID": "resources/policies/coc.html#reporting",
+    "href": "resources/policies/coc.html#reporting",
+    "title": "INvenTree Code of Conduct",
+    "section": "Reporting",
+    "text": "Reporting\nYou can report any violations to this code by writing to INvenTree email (inventree@gmail.com), Krishna Anujan (krishna.anujan@gmail.com), Neha Mohanbabu (nehamohanbabu@gmail.com). You can also report to the organisers of the particular meeting."
+  },
+  {
+    "objectID": "resources/policies/coc.html#disclaimers",
+    "href": "resources/policies/coc.html#disclaimers",
+    "title": "INvenTree Code of Conduct",
+    "section": "Disclaimers",
+    "text": "Disclaimers\nGiven our limitations, INvenTree cannot be responsible for the actions of INvenTree members outside of the INvenTree context, although we hope that members abide by respectful behaviours through all their professional and personal interactions. INvenTree also reserves the right to revise this Code of Conduct as needed.\nThis document has been adapted from various sources including LTER and NCEAS"
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy Policy",
+    "section": "",
+    "text": "This website is maintained by the INvenTree team. The website does not collect any personal data from its users. But the website uses Google Analytics to collect information about how visitors use the site."
+  },
+  {
+    "objectID": "posts/newsletter1.html#network-building",
+    "href": "posts/newsletter1.html#network-building",
+    "title": "Newsletter Issue 1 - August 2025",
     "section": "Network Building",
-    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates include:\n1. In-person meeting: The first in-person meeting of the India Tree Inventory Network will be held at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. This meeting aims to foster collaboration and networking among members.\n2. Meeting grant: The network received a meeting grant from the Anusandhan National Research Foundation (ANRF) to support the in-person meeting and related activities. This is the first grant received by the network!\n\nPlanned activities:\nPeriodic meetings: We plan to hold periodic meetings (in-person/virtual) to keep members engaged and updated on network activities. We will discuss the formats and needs further at the upcoming in-person meeting."
+    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates from this year include:\n1. Website: We have launched our website which serves as a hub for information about the network, its members, and activities.\n2. Membership Drive: We have successfully grown our community to ~30 members from various institutions. We also launched our member directory to showcase the tree inventory community in India and to invite collaborations.\n3. Newsletter: This is the first issue of our newsletter, which will be published periodically to keep everyone informed about the network’s activities.\n\nPlanned activities:\nIn-person meeting: We are planning an in-person meeting in the coming months to foster collaboration and networking among members. Stay tuned for details!"
   },
   {
-    "objectID": "posts/newsletter2.html#data-visibility-and-accessibility",
-    "href": "posts/newsletter2.html#data-visibility-and-accessibility",
-    "title": "Newsletter Issue 2 - December 2025",
-    "section": "Data Visibility and Accessibility",
-    "text": "Data Visibility and Accessibility\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: A working version of a Shiny app to visualize and explore tree inventory data has been created. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs. This app will be launched and tested at the upcoming in-person meeting.\n2. Collating plot metadata: This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to indiainventree@gmail.com for details."
+    "objectID": "posts/newsletter1.html#public-data",
+    "href": "posts/newsletter1.html#public-data",
+    "title": "Newsletter Issue 1 - August 2025",
+    "section": "Public Data",
+    "text": "Public Data\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: We are developing a Shiny app to visualize and explore tree inventory data. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs.\n2. Zotero public library: We are working on a Zotero public library to share details of the publications that form the basis of the INvenTree metadataset. This will help members and the public discover and access tree inventory based research from India."
   },
   {
-    "objectID": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "href": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "title": "Newsletter Issue 2 - December 2025",
+    "objectID": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "href": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "title": "Newsletter Issue 1 - August 2025",
     "section": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!",
     "text": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!"
   },
   {
-    "objectID": "posts/meeting2026.html",
-    "href": "posts/meeting2026.html",
-    "title": "First INvenTree meeting conducted!",
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
     "section": "",
-    "text": "INvenTree meeting"
+    "text": "INvenTree projects are expected to adhere to the following policies. These policies are intended to ensure that our work is conducted in an ethical, inclusive, and responsible manner, and that it aligns with our values and goals as a community."
+  },
+  {
+    "objectID": "policies.html#policies",
+    "href": "policies.html#policies",
+    "title": "Policies",
+    "section": "Policies",
+    "text": "Policies\n\n\n    \n        \n            \n                \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "policies.html#templates",
+    "href": "policies.html#templates",
+    "title": "Policies",
+    "section": "Templates",
+    "text": "Templates\n\n\n    \n        \n    \n\n\nNo matching items"
   },
   {
     "objectID": "index.html#how",
@@ -119,38 +203,94 @@
     "text": "If you would like to Get Involved in working with INvenTree data, get in touch with us at"
   },
   {
-    "objectID": "posts/newsletter1.html#network-building",
-    "href": "posts/newsletter1.html#network-building",
-    "title": "Newsletter Issue 1 - August 2025",
+    "objectID": "posts/meeting2026.html",
+    "href": "posts/meeting2026.html",
+    "title": "First INvenTree meeting conducted!",
+    "section": "",
+    "text": "INvenTree meeting"
+  },
+  {
+    "objectID": "posts/newsletter2.html#network-building",
+    "href": "posts/newsletter2.html#network-building",
+    "title": "Newsletter Issue 2 - December 2025",
     "section": "Network Building",
-    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates from this year include:\n1. Website: We have launched our website which serves as a hub for information about the network, its members, and activities.\n2. Membership Drive: We have successfully grown our community to ~30 members from various institutions. We also launched our member directory to showcase the tree inventory community in India and to invite collaborations.\n3. Newsletter: This is the first issue of our newsletter, which will be published periodically to keep everyone informed about the network’s activities.\n\nPlanned activities:\nIn-person meeting: We are planning an in-person meeting in the coming months to foster collaboration and networking among members. Stay tuned for details!"
+    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates include:\n1. In-person meeting: The first in-person meeting of the India Tree Inventory Network will be held at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. This meeting aims to foster collaboration and networking among members.\n2. Meeting grant: The network received a meeting grant from the Anusandhan National Research Foundation (ANRF) to support the in-person meeting and related activities. This is the first grant received by the network!\n\nPlanned activities:\nPeriodic meetings: We plan to hold periodic meetings (in-person/virtual) to keep members engaged and updated on network activities. We will discuss the formats and needs further at the upcoming in-person meeting."
   },
   {
-    "objectID": "posts/newsletter1.html#public-data",
-    "href": "posts/newsletter1.html#public-data",
-    "title": "Newsletter Issue 1 - August 2025",
-    "section": "Public Data",
-    "text": "Public Data\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: We are developing a Shiny app to visualize and explore tree inventory data. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs.\n2. Zotero public library: We are working on a Zotero public library to share details of the publications that form the basis of the INvenTree metadataset. This will help members and the public discover and access tree inventory based research from India."
+    "objectID": "posts/newsletter2.html#data-visibility-and-accessibility",
+    "href": "posts/newsletter2.html#data-visibility-and-accessibility",
+    "title": "Newsletter Issue 2 - December 2025",
+    "section": "Data Visibility and Accessibility",
+    "text": "Data Visibility and Accessibility\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: A working version of a Shiny app to visualize and explore tree inventory data has been created. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs. This app will be launched and tested at the upcoming in-person meeting.\n2. Collating plot metadata: This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to indiainventree@gmail.com for details."
   },
   {
-    "objectID": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "href": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "title": "Newsletter Issue 1 - August 2025",
+    "objectID": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "href": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "title": "Newsletter Issue 2 - December 2025",
     "section": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!",
     "text": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!"
   },
   {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy Policy",
+    "objectID": "resources/datasets/anujan_et_al_2025.html",
+    "href": "resources/datasets/anujan_et_al_2025.html",
+    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
     "section": "",
-    "text": "This website is maintained by the INvenTree team. The website does not collect any personal data from its users. But the website uses Google Analytics to collect information about how visitors use the site."
+    "text": "GitHub repository\nDataset"
+  },
+  {
+    "objectID": "resources/datasets/anujan_et_al_2025.html#important-links",
+    "href": "resources/datasets/anujan_et_al_2025.html#important-links",
+    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
+    "section": "",
+    "text": "GitHub repository\nDataset"
+  },
+  {
+    "objectID": "resources/datasets/anujan_et_al_2025.html#citation",
+    "href": "resources/datasets/anujan_et_al_2025.html#citation",
+    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
+    "section": "Citation",
+    "text": "Citation\n\n{{&lt; ai zotero &gt;}} Add to Zotero \n\n@article{Arel-BundockGreiferHeiss:2024,\n    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},\n    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},\n    doi = {10.18637/jss.v111.i09},\n    journal = {Journal of Statistical Software},\n    year = {2024},\n    volume = {111},\n    number = {9},\n    pages = {1–32}}"
+  },
+  {
+    "objectID": "resources/pubs/anujan_et_al_2024.html",
+    "href": "resources/pubs/anujan_et_al_2024.html",
+    "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
+    "section": "",
+    "text": "Paper (preprint)\nGitHub repository\nDataset"
+  },
+  {
+    "objectID": "resources/pubs/anujan_et_al_2024.html#important-links",
+    "href": "resources/pubs/anujan_et_al_2024.html#important-links",
+    "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
+    "section": "",
+    "text": "Paper (preprint)\nGitHub repository\nDataset"
+  },
+  {
+    "objectID": "resources/pubs/anujan_et_al_2024.html#abstract",
+    "href": "resources/pubs/anujan_et_al_2024.html#abstract",
+    "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
+    "section": "Abstract",
+    "text": "Abstract\nGlobal analyses of tree diversity and function are strongly biased geographically, with poor representation from South Asian forests. Even though data from India - representing two-thirds of South Asia and spanning a wide range of tree-based biomes - exists, a barrier to syntheses is the absence of accessible and standardised data. Further, with increasing human footprint across ecosystems, data from Indian landscapes, with their long history of human-nature interactions is a key link to understand the future of tropical forested landscapes. Combining literature searches with manual data retrieval, we assembled INvenTree, the INdia Tree Inventory dataset, the largest meta-dataset of peer-reviewed publications (n = 465) from 1991-2023 on geolocated plot-based tree inventories of multispecies communities from Indian ecosystems, in aggregate covering 4653.64 ha and all of its vegetated biomes. Using the INvenTree dataset, we show extensive sampling across tropical moist and dry forests, the dominant ecosystem types in the country. We also identify ecological and conservation sampling priority regions based on forest cover and loss and set a blueprint for future sampling efforts in the country. However, most studies are small scale (median = 2 ha) and data across studies is not openly accessible (73.33 % of studies representing 83.43% of the sampled area), potentially hindering inclusion into regional or global syntheses. Significantly, we show majority authorship from within the country; 82.8% of corresponding authors were from India and 73.33% of the studies had all authors affiliated with Indian institutions. Based on extensive Indian scholarship in forest ecology showcased through the INvenTree dataset, we see opportunity for regional collaboration to create scientific inferences that are larger and scalable, while prioritising data and knowledge equity. Harmonising these datasets would contribute enormously to understanding the human dimension of tropical ecology as well as informing regional management and conservation."
+  },
+  {
+    "objectID": "resources/pubs/anujan_et_al_2024.html#important-figures",
+    "href": "resources/pubs/anujan_et_al_2024.html#important-figures",
+    "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
+    "section": "Important figures",
+    "text": "Important figures"
+  },
+  {
+    "objectID": "resources/pubs/anujan_et_al_2024.html#citation",
+    "href": "resources/pubs/anujan_et_al_2024.html#citation",
+    "title": "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology",
+    "section": "Citation",
+    "text": "Citation\n\n{{&lt; ai zotero &gt;}} Add to Zotero \n\n@article{Arel-BundockGreiferHeiss:2024,\n    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},\n    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},\n    doi = {10.18637/jss.v111.i09},\n    journal = {Journal of Statistical Software},\n    year = {2024},\n    volume = {111},\n    number = {9},\n    pages = {1–32}}"
   },
   {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Who We Are",
     "section": "",
-    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nWorking group\n\n\n\n\n\nKrishna Anujan \nPostdoctoral Fellow\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nNasla Najeeb\nPhD Scholar\nBITS Pilani Goa Campus\n\n\n\n\n\n\n\nKarun Jose\nProject Scientist\nInstitute for Climate Change Studies\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\n\n\n\nOur current work is built on the incredible foundation laid by many others.\nView past members\nBrowse full member directory"
+    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nWorking group\n\n\n\n\n\nKrishna Anujan \nPostdoctoral Fellow\nForestGEO and Smithsonian Institution\nWorking Group Lead\n\n\n\n\n\n\n\nNeha Mohanbabu \nPostdoctoral researcher\nUtrecht University\nWorking Group Lead\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\nWorking Group Lead\n\n\n\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nNasla Najeeb\nPhD Scholar\nBITS Pilani Goa Campus\n\n\n\n\n\n\n\nKarun Jose\nProject Scientist\nInstitute for Climate Change Studies\n\n\n\nOur current work is built on the incredible foundation laid by many others.\nView past working group members\nBrowse full member directory"
   }
 ]

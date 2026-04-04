@@ -36,6 +36,7 @@ Sharing tools and techniques among forest researchers in India.
 **Krishna Anujan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://krishnaanujan.github.io)  
 Postdoctoral Fellow  
 ForestGEO and Smithsonian Institution  
+Working Group Lead  
 :::
 :::
 
@@ -47,6 +48,18 @@ ForestGEO and Smithsonian Institution
 **Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://neha-mohanbabu.weebly.com/)  
 Postdoctoral researcher  
 Utrecht University  
+Working Group Lead  
+:::
+:::
+
+::: {.grid}
+::: {.g-col-3}
+![](assets/mahesh_sankaran.jpg){.circular-photo}
+:::
+::: {.g-col-9 .center-vertical}
+**Mahesh Sankaran** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.ncbs.res.in/faculty/mahesh)  
+National Centre for Biological Sciences  
+Working Group Lead  
 :::
 :::
 
@@ -117,21 +130,11 @@ Institute for Climate Change Studies
 :::
 
 
-::: {.grid}
-::: {.g-col-3}
-![](assets/mahesh_sankaran.jpg){.circular-photo}
-:::
-::: {.g-col-9 .center-vertical}
-**Mahesh Sankaran** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://www.ncbs.res.in/faculty/mahesh)  
-National Centre for Biological Sciences  
-:::
-:::
-
 ::: {.center-text}
 
 Our current work is built on the incredible foundation laid by many others.
 
-[View past members](https://india-inventree.github.io/members/#category=past%20working%20group){.btn .btn-primary}
+[View past working group members](https://india-inventree.github.io/members/#category=past%20working%20group){.btn .btn-primary}
 
 [Browse full member directory](https://india-inventree.github.io/members/){.btn .btn-primary}
 ::: 

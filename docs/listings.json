@@ -6,5 +6,18 @@
       "/posts/newsletter1.html",
       "/posts/newsletter2.html"
     ]
+  },
+  {
+    "listing": "/resources.html",
+    "items": [
+      "/resources/pubs/anujan_et_al_2024.html",
+      "/resources/datasets/anujan_et_al_2025.html"
+    ]
+  },
+  {
+    "listing": "/policies.html",
+    "items": [
+      "/resources/policies/coc.html"
+    ]
   }
 ]

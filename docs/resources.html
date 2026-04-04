@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -37,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-75397a25d5586c7c375dc56cbe1fcc2a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e697dbd6e8e06d665a143ec62f02640e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -66,6 +68,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-publications .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-author','listing-pub-info','listing-doi','listing-css','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-author","listing-pub-info","listing-doi","listing-css","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-publications'] = new List('listing-publications', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-datasets .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-date','listing-author','listing-pub-info','listing-doi','listing-css','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-title","listing-date","listing-author","listing-pub-info","listing-doi","listing-css","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-datasets'] = new List('listing-datasets', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-PVM7NFRLL8"></script>
 
 <script type="text/javascript">
@@ -75,24 +134,36 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-PVM7NFRLL8', { 'anonymize_ip': true});
 </script>
-<style>
 
-      .quarto-title-block .quarto-title-banner h1,
-      .quarto-title-block .quarto-title-banner h2,
-      .quarto-title-block .quarto-title-banner h3,
-      .quarto-title-block .quarto-title-banner h4,
-      .quarto-title-block .quarto-title-banner h5,
-      .quarto-title-block .quarto-title-banner h6
-      {
-        color: #ffffff;
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
       }
-
-      .quarto-title-block .quarto-title-banner {
-        color: #ffffff;
-background: #7d6a2a;
-      }
-</style>
-
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -100,7 +171,7 @@ background: #7d6a2a;
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -125,6 +196,11 @@ background: #7d6a2a;
     <a class="dropdown-item" href="./resources.html"><i class="bi bi-bookmark" role="img">
 </i> 
  <span class="dropdown-text">Publications</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./policies.html"><i class="bi bi-briefcase" role="img">
+</i> 
+ <span class="dropdown-text">Policies</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/" target="_new"><i class="bi bi-compass" role="img">
@@ -180,42 +256,206 @@ background: #7d6a2a;
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Publications</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link active" data-scroll-target="#journal-articles">Journal articles</a></li>
+  <li><a href="#datasets" id="toc-datasets" class="nav-link" data-scroll-target="#datasets">Datasets</a></li>
+  </ul>
+</nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Publications</h1>
+</div>
 
 
 
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
+  </div>
+  
 
 
-<p><a href="https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1">Our first preprint</a> is available on biorXiv now!</p>
-<p><a href="(https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1)"><em>Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology</em></a><br>
-Krishna Anujan*, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran</p>
-<p><em>Abstract</em>:<br>
-Global analyses of tree diversity and function are strongly biased geographically, with poor representation from South Asian forests. Even though data from India - representing two-thirds of South Asia and spanning a wide range of tree-based biomes - exists, a barrier to syntheses is the absence of accessible and standardised data. Further, with increasing human footprint across ecosystems, data from Indian landscapes, with their long history of human-nature interactions is a key link to understand the future of tropical forested landscapes. Combining literature searches with manual data retrieval, we assembled INvenTree, the INdia Tree Inventory dataset, the largest meta-dataset of peer-reviewed publications (n = 465) from 1991-2023 on geolocated plot-based tree inventories of multispecies communities from Indian ecosystems, in aggregate covering 4653.64 ha and all of its vegetated biomes. Using the INvenTree dataset, we show extensive sampling across tropical moist and dry forests, the dominant ecosystem types in the country. We also identify ecological and conservation sampling priority regions based on forest cover and loss and set a blueprint for future sampling efforts in the country. However, most studies are small scale (median = 2 ha) and data across studies is not openly accessible (73.33 % of studies representing 83.43% of the sampled area), potentially hindering inclusion into regional or global syntheses. Significantly, we show majority authorship from within the country; 82.8% of corresponding authors were from India and 73.33% of the studies had all authors affiliated with Indian institutions. Based on extensive Indian scholarship in forest ecology showcased through the INvenTree dataset, we see opportunity for regional collaboration to create scientific inferences that are larger and scalable, while prioritising data and knowledge equity. Harmonising these datasets would contribute enormously to understanding the human dimension of tropical ecology as well as informing regional management and conservation.</p>
+</header>
 
 
+<p>INvenTree makes several resources available to the public, including datasets, code, visualisations, and publications.</p>
+<section id="journal-articles" class="level2">
+<h2 class="anchored" data-anchor-id="journal-articles">Journal articles</h2>
+<div id="listing-publications" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+    <ul class="list">
+        
+            <li class="project" data-index="0" data-listing-date-sort="1776229200000" data-listing-file-modified-sort="1775268791485" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
+                
+                    <div class="project-content listing-pub-info">
+                        <p>
+                            <a href="https://arelbundock.com/">Krishna Anujan</a>, <a href="https://ngreifer.github.io/">Neha Mohanbabu</a>, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> in revision (2025), doi: <a href="https://doi.org/10.1101/2024.05.18.594774v1"><code>10.1101/2024.05.18.594774v1</code></a>
+                        </p>
+                    </div>
+                    
+
+                        
+
+                                
+
+                                        <div class="project-details-listing">
+                                            <ul class="project-links">
+                                                <li class="project-link details">
+                                                    <a href="./resources/pubs/anujan_et_al_2024.html" class="listing-name">
+                                                        <i class="fa-solid fa-circle-info"></i> Full details »
+                                                    </a>
+                                                </li>
+
+                                                
+                                                    
+                                                        <li class="project-link">
+                                                            
+                                                                <a href="./mfxplainer.pdf">
+                                                                    
+                                                                                <i class="fa-solid fa-file-pdf"></i>
+                                                                                Preprint
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                        <li class="project-link">
+                                                            
+                                                                        <a href="https://doi.org/10.18637/jss.v111.i09">
+                                                                            
+                                                                                <i class="fa-solid fa-scroll"></i>
+                                                                                Final version
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                        <li class="project-link">
+                                                            
+                                                                        <a href="https://github.com/vincentarelbundock/mfxplainer">
+                                                                            
+                                                                                <i class="fa-brands fa-github"></i>
+                                                                                Code
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                        <li class="project-link">
+                                                            
+                                                                        <a href="https://www.zotero.org/save?type=doi&amp;q=10.18637/jss.v111.i09">
+                                                                            
+                                                                                <i class="ai ai-zotero"></i>
+                                                                                Add to Zotero
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                            
+                                            </ul>
+                                        </div>
+            </li>
+            
+    </ul>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="datasets" class="level2">
+<h2 class="anchored" data-anchor-id="datasets">Datasets</h2>
+<div id="listing-datasets" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+    <ul class="list">
+        
+            <li class="project" data-index="0" data-listing-date-sort="1746594000000" data-listing-file-modified-sort="1775270051302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
+                
+                    <div class="project-content listing-pub-info">
+                        <p>
+                            <a href="https://arelbundock.com/">Krishna Anujan</a>, <a href="https://ngreifer.github.io/">Neha Mohanbabu</a>, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> in revision (2025), doi: <a href="https://doi.org/10.1101/2024.05.18.594774v1"><code>10.1101/2024.05.18.594774v1</code></a>
+                        </p>
+                    </div>
+                    
+
+                        
+
+                                
+
+                                        <div class="project-details-listing">
+                                            <ul class="project-links">
+                                                <li class="project-link details">
+                                                    <a href="./resources/datasets/anujan_et_al_2025.html" class="listing-name">
+                                                        <i class="fa-solid fa-circle-info"></i> Full details »
+                                                    </a>
+                                                </li>
+
+                                                
+                                                    
+                                                        <li class="project-link">
+                                                            
+                                                                <a href="./mfxplainer.pdf">
+                                                                    
+                                                                                <i class="fa-solid fa-file-pdf"></i>
+                                                                                Preprint
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                        <li class="project-link">
+                                                            
+                                                                        <a href="https://doi.org/10.18637/jss.v111.i09">
+                                                                            
+                                                                                <i class="fa-solid fa-scroll"></i>
+                                                                                Final version
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                        <li class="project-link">
+                                                            
+                                                                        <a href="https://github.com/vincentarelbundock/mfxplainer">
+                                                                            
+                                                                                <i class="fa-brands fa-github"></i>
+                                                                                Code
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                        <li class="project-link">
+                                                            
+                                                                        <a href="https://www.zotero.org/save?type=doi&amp;q=10.18637/jss.v111.i09">
+                                                                            
+                                                                                <i class="ai ai-zotero"></i>
+                                                                                Add to Zotero
+                                                                        </a>
+                                                        </li>
+                                                        
+                                                            
+                                            </ul>
+                                        </div>
+            </li>
+            
+    </ul>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<!-- [Our first preprint](https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1) is available on biorXiv now!
+
+[*Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology*]((https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1))  
+Krishna Anujan*, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran  
+
+*Abstract*:  
+Global analyses of tree diversity and function are strongly biased geographically, with poor representation from South Asian forests. Even though data from India - representing two-thirds of South Asia and spanning a wide range of tree-based biomes - exists, a barrier to syntheses is the absence of accessible and standardised data. Further, with increasing human footprint across ecosystems, data from Indian landscapes, with their long history of human-nature interactions is a key link to understand the future of tropical forested landscapes. Combining literature searches with manual data retrieval, we assembled INvenTree, the INdia Tree Inventory dataset, the largest meta-dataset of peer-reviewed publications (n = 465) from 1991-2023 on geolocated plot-based tree inventories of multispecies communities from Indian ecosystems, in aggregate covering 4653.64 ha and all of its vegetated biomes. Using the INvenTree dataset, we show extensive sampling across tropical moist and dry forests, the dominant ecosystem types in the country. We also identify ecological and conservation sampling priority regions based on forest cover and loss and set a blueprint for future sampling efforts in the country. However, most studies are small scale (median = 2 ha) and data across studies is not openly accessible (73.33 % of studies representing 83.43% of the sampled area), potentially hindering inclusion into regional or global syntheses. Significantly, we show majority authorship from within the country; 82.8% of corresponding authors were from India and 73.33% of the studies had all authors affiliated with Indian institutions. Based on extensive Indian scholarship in forest ecology showcased through the INvenTree dataset, we see opportunity for regional collaboration to create scientific inferences that are larger and scalable, while prioritising data and knowledge equity. Harmonising these datasets would contribute enormously to understanding the human dimension of tropical ecology as well as informing regional management and conservation. -->
+
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,0 +1,29 @@
+---
+title: "Policies"
+listing:
+  - id: policies
+    contents: "resources/policies/*.qmd"
+    sort: "date desc"
+    template: html/listing.ejs
+    categories: true
+  - id: templates
+    contents: "resources/templates/*.qmd"
+    sort: "date desc"
+    template: html/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+
+---
+
+INvenTree projects are expected to adhere to the following policies. These policies are intended to ensure that our work is conducted in an ethical, inclusive, and responsible manner, and that it aligns with our values and goals as a community.
+
+## Policies
+
+:::{#policies}
+:::
+
+## Templates
+
+:::{#templates}
+:::

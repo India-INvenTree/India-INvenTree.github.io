@@ -1,0 +1,96 @@
+---
+title: "INvenTree metadataset: publications on plot-based tree inventories from India"
+date: 2025-05-7
+author:
+  - name: Krishna Anujan
+    url: https://arelbundock.com/
+    orcid: 0000-0003-2042-7063
+    affiliation: Smithsonian Institution, ForestGEO
+  - name: Neha Mohanbabu
+    url: https://ngreifer.github.io/
+    orcid: 0000-0003-3067-7154
+    affiliation: Institute for Quantitative Social Science, Harvard University
+  - name: Abhishek Gopal
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Akshay Surendra
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Aparna Krishnan
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Ankitha Jayanth
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Tanaya Nair
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Shasank Ongole
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+  - name: Mahesh Sankaran
+    url: https://www.andrewheiss.com/
+    orcid: 0000-0002-3948-3914
+    affiliation: Andrew Young School of Policy Studies, Georgia State University
+# categories:
+#   - regression
+#   - marginal effect
+#   - slope
+#   - prediction
+pub-info:
+  reference: >-
+    <a href="https://arelbundock.com/">Krishna Anujan</a>, <a href="https://ngreifer.github.io/">Neha Mohanbabu</a>, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> in revision (2025), doi: <a href="https://doi.org/10.1101/2024.05.18.594774v1"><code>10.1101/2024.05.18.594774v1</code></a>
+  links:
+    - name: Preprint
+      url: mfxplainer.pdf
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.18637/jss.v111.i09
+      icon: fa-solid fa-scroll
+    - name: Code
+      url: https://github.com/vincentarelbundock/mfxplainer
+      icon: fa-brands fa-github
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09
+      icon: ai ai-zotero
+doi: 10.1101/2024.05.18.594774v1
+css: styles.css
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/India-INvenTree/metadataset/tree/v1.0.0)
+- [Dataset](https://doi.org/10.5281/zenodo.1234567)
+
+
+<!-- ## Abstract
+
+Global analyses of tree diversity and function are strongly biased geographically, with poor representation from South Asian forests. Even though data from India - representing two-thirds of South Asia and spanning a wide range of tree-based biomes - exists, a barrier to syntheses is the absence of accessible and standardised data. Further, with increasing human footprint across ecosystems, data from Indian landscapes, with their long history of human-nature interactions is a key link to understand the future of tropical forested landscapes. Combining literature searches with manual data retrieval, we assembled INvenTree, the INdia Tree Inventory dataset, the largest meta-dataset of peer-reviewed publications (n = 465) from 1991-2023 on geolocated plot-based tree inventories of multispecies communities from Indian ecosystems, in aggregate covering 4653.64 ha and all of its vegetated biomes. Using the INvenTree dataset, we show extensive sampling across tropical moist and dry forests, the dominant ecosystem types in the country. We also identify ecological and conservation sampling priority regions based on forest cover and loss and set a blueprint for future sampling efforts in the country. However, most studies are small scale (median = 2 ha) and data across studies is not openly accessible (73.33 % of studies representing 83.43% of the sampled area), potentially hindering inclusion into regional or global syntheses. Significantly, we show majority authorship from within the country; 82.8% of corresponding authors were from India and 73.33% of the studies had all authors affiliated with Indian institutions. Based on extensive Indian scholarship in forest ecology showcased through the INvenTree dataset, we see opportunity for regional collaboration to create scientific inferences that are larger and scalable, while prioritising data and knowledge equity. Harmonising these datasets would contribute enormously to understanding the human dimension of tropical ecology as well as informing regional management and conservation.
+
+
+## Important figures -->
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{Arel-BundockGreiferHeiss:2024,
+    title = {How to Interpret Statistical Models Using {marginaleffects} in {R} and {Python}},
+    author = {Vincent Arel-Bundock and Noah Greifer and Andrew Heiss},
+    doi = {10.18637/jss.v111.i09},
+    journal = {Journal of Statistical Software},
+    year = {2024},
+    volume = {111},
+    number = {9},
+    pages = {1–32}}
+```

@@ -15,6 +15,10 @@ website:
             text: "Publications"
             # icon: folder-fill
             icon: bookmark
+          - href: policies.qmd
+            text: "Policies"
+            # icon: folder-fill
+            icon: briefcase
           - href: "https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/"
             text: Paper Explorer
             icon: compass
@@ -71,8 +75,8 @@ format:
   html:
     theme:
       # - cosmo
-      - flatly
       - custom.scss
+      - flatly
     css: styles.css
     toc: true
 
