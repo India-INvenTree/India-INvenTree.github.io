@@ -9,7 +9,7 @@ bibliography: member-pubs.bib
 csl: apa-cv.csl
 suppress-bibliography: true
 # urlcolor: "#08392b"
-fontsize: 11pt
+# fontsize: 11pt
 margin-left: 0.5cm
 margin-right: 0.5cm
 # margin-top: 1.5cm
