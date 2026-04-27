@@ -8,7 +8,7 @@ listing:
     categories: true
     # grid-columns: 4
     # image-height: 160px
-    image-placeholder: "posts/assets/cc_forest_walk_crop.jpg"
+    image-placeholder: "posts/assets/tree_zoom.jpg"
     # page-size: 20
 title-block-banner-color: "#ffffff"
 title-block-banner: "#7d6a2a"
