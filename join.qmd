@@ -4,6 +4,8 @@ title-block-banner-color: "#ffffff"
 title-block-banner: "#7d6a2a"
 ---
 
-If you work with tree inventories in India and would like to Get Involved With the India Tree Inventory Network, get in touch with us at [
-{{< iconify bi mdi:email size=1.1em title='Email' >}}](mailto:indiainventree@gmail.com)
+If you are a student or researcher working on vegetation data in India and are interested in joining the INvenTree network or receiving updates on our newsletters, events, workshops, online resources, publications, and research projects, we would love to hear from you.
+
+Reach out to us to stay connected and join the community.  [
+{{< iconify bi mdi:email size=1.1em title='Email' >}} indiainventree@gmail.com](mailto:indiainventree@gmail.com)
 
