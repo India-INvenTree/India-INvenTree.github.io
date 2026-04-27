@@ -23,7 +23,7 @@ margin-right: 0.5cm
 # margin-top: 1.5cm
 # title-block-banner: assets/trees_small.jpg
 # title-block-banner: assets/cc_malabaricus.jpg
-title-block-banner: assets/cc_forest_walk_crop.jpg
+title-block-banner: assets/tree_zoom.jpg
 title-block-banner-color: "#080000"
 ---
 
