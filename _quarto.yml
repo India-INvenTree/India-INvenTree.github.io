@@ -15,10 +15,6 @@ website:
             text: "Publications"
             # icon: folder-fill
             icon: bookmark
-          - href: policies.qmd
-            text: "Policies"
-            # icon: folder-fill
-            icon: briefcase
           - href: "https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/"
             text: Paper Explorer
             icon: compass
@@ -39,11 +35,17 @@ website:
       - href: updates.qmd
         text: "Updates"
         icon: newspaper
-      - href: join.qmd
-        # text: "<span class='btn btn-primary'>Click here</span>"
-        text: "Get Involved"
+      - text: "Get Involved"
         # icon: person-add
         icon: sign-merge-left
+        menu:
+          - text: "Join Us"
+            href: join.qmd
+            icon: person-plus-fill
+          - href: policies.qmd
+            text: "Policies"
+            # icon: folder-fill
+            icon: briefcase
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
         href: "mailto:indiainventree@gmail.com"

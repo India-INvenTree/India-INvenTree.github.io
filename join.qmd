@@ -1,5 +1,5 @@
 ---
-title: "Get Involved"
+title: "Join us"
 title-block-banner-color: "#ffffff"
 title-block-banner: "#7d6a2a"
 ---

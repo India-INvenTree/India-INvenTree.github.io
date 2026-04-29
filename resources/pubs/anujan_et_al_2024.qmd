@@ -48,7 +48,7 @@ pub-info:
     Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> in revision (2025), doi: <a href="https://doi.org/10.1101/2024.05.18.594774v1"><code>10.1101/2024.05.18.594774v1</code></a>
   links:
     - name: Preprint
-      url: mfxplainer.pdf
+      url: https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1
       icon: iconify mdi:file
       local: true
     - name: Final version

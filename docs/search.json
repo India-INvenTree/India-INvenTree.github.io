@@ -28,123 +28,67 @@
     "text": "Datasets\n\n\n    \n        \n            \n                \n                    \n                        \n                            Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “INvenTree metadataset: publications on plot-based tree inventories from India” Zenodo(2025), doi: 10.5281/zenodo.15358405\n                        \n                    \n                    \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                                    \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Zenodo\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Github repo\n                                                                        \n                                                        \n                                                        \n                                                        \n                                                            \n                                                                        \n                                                                            \n                                                                                \n                                                                                Add to Zotero\n                                                                        \n                                                        \n                                                        \n                                                            \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
   },
   {
-    "objectID": "resources/policies/coc.html",
-    "href": "resources/policies/coc.html",
-    "title": "INvenTree Code of Conduct",
+    "objectID": "resources/policies/collab.html",
+    "href": "resources/policies/collab.html",
+    "title": "INvenTree Agreement for Data Sharing and Collaboration in Projects",
     "section": "",
-    "text": "The India Tree Inventory Network (INvenTree) is a voluntary network of researchers working on collecting, collating, synthesising and publishing on tree inventories in India."
+    "text": "Purpose and scope\nThis document sets expectations for cooperation, trust, and responsible practice among parties participating in data sharing and/or collaborative projects via INvenTree. In this policy, we are guided by our four operating principles - FAIR data, fair sharing, reproducible methods and collaborative learning.\n\n\nWhen, where and to whom does this policy apply?\nAgreement with this policy is required for all individuals accessing datasets, sharing ideas, or collaborating on projects that emerged through activities organised and/or funded by the INvenTree network (e.g. in-person or online meetings). This policy does not apply/cannot be enforced for projects that arise through collaborations made within the INvenTree network, without explicit INvenTree support. However, if such projects use support of the INvenTree Team, e.g. for data wrangling or reproducibility skills, this policy shall apply.\nAll activities conducted as part of INvenTree are subject to the INvenTree Code of Conduct. The INvenTree team reserves the right to alter policies and edit this document as needed, with information to active projects.\n\n\nDefinitions\n\nData originator(s) - individuals who have made substantial contributions to data collection, curation, or maintenance\nData user(s) - individuals requesting use of data from data originators as part of collaborative projects with specific outputs\nProject participant - any participant in a given collaborative project, regardless of their role\nINvenTree team - voluntary group of individuals organising and managing activities as part of the India Tree Inventory Network\nPrivate data - Any dataset that does not meet FAIR standards, either privately stored or publicly accessible but without sufficient reusability aspects e.g. license, clear metadata.\n\n\n\nData sharing and compliance\n\nData originators commit to sharing private data with the data user(s) within the timeframe discussed and agreed upon.\nAll project participants commit to meeting applicable journal and funder requirements (including FAIR data principles).\nEnsuring dataset quality and clear metadata is the responsibility of data originators; INvenTree will not be responsible for ensuring data quality.\nData users should verify the readiness and level of detail of private data intended for eventual publication with the data originator.\nData originators may choose to directly share their datasets openly, freely and publicly in data repositories. While Inventree respects the choices of the data originators, we encourage data originators to work with data users to make data Findable, Accessible, Interoperable, and Reusable (FAIR) to whatever extent possible.\n\n\n\nConfidentiality, storage, and permitted use\n\nUse of datasets made publicly available by INvenTree members will not require additional permissions, but will be subject to the terms of the license under which the dataset is made available.\nShared private data must not be disclosed to outside parties or uploaded to external services without explicit authorization. This includes generative AI platforms (for example, ChatGPT, ColabAI) and other third‑party systems.\nAll shared private data must be stored securely and must not be copied or transferred without the consent of the data originators.\nUnder INvenTree projects, data users may reserve exclusive use of private datasets with the permission of data originators for a specific output/question for up to three years from the date of contribution (or for an alternative period if mutually agreed). After that period, other INvenTree members may apply to use the data for similar research questions.\nThe default exclusive use period for shared private datasets is three years; participants should reach out before agreeing to participate if they would like a different duration or case‑by‑case arrangements.\nAny project participant engaged in a project covered by this document, should avoid participating in other projects with the same dataset and questions while the project is active. Disclose and discuss any potential conflicts of interest in conceptual framing with the lead author.\n\n\n\nAttribution and authorship\n\nAll data originators, including those who have shared their data publicly, should be invited to collaborate and, where appropriate, offered co‑authorship on outputs arising from use of their data. Data originators may choose to accept or decline coauthorship.\nContributing a dataset to INvenTree, or transferring data between INvenTree members, does not transfer intellectual property rights.\nData users may also, at their discretion, invite other INvenTree members to participate in INvenTree projects.\nMultifaceted contributions to the work are strongly encouraged. Meaningful contributions include:\n\nGranting access to datasets on INvenTree if the proposed research does not compromise the originator’s own research plans;\nHelping to formulate research questions;\nAssisting with data analysis; and\nContributing to manuscript preparation.\n\n\n\n\nCitation\nCite the INvenTree network in reports or articles using the agreed citation format.\n\n\nTransparency and reproducibility\n\nINvenTree projects agree to make information on the scope of the project - including questions/aims, hypotheses, datasets used and participants - available to all INvenTree members. The INvenTree Team will maintain a log of ongoing project details for all members to view.\nProjects should adopt reproducible workflows from the outset: use code for data cleaning, share analysis code, apply version control, and maintain data change logs or diffs.\nThe INvenTree Team can provide support with R, GitHub, and reproducible workflows upon request.\nData users must keep all project participants informed at all stages and submit the final draft of the manuscript or other output, including a complete list of datasets used, to all project participants for final checks on data sharing agreements before submission.\nNotify the INvenTree Team of any outputs, e.g. reports, preprints, or publications, that arise from INvenTree data or projects.\n\n\n\nInclusivity and capacity building\n\nEarly‑career researchers (ECRs) are encouraged to take leadership roles and receive mentorship within INvenTree collaborations.\nINvenTree projects will strive to have paired joint lead authors comprising one early career and one more experienced researcher, for capacity and responsibility sharing.\nFaculty and group leaders are encouraged to involve PhD and masters students from their labs in INvenTree projects they are involved in.\nTo distribute responsibility and include diverse contributions, we recommend that members take on leadership roles in no more than one INvenTree project at a given time.\n\n\n\nReporting and consequences\nAny violations of this policy should be reported to indiainventree@gmail.com and shall result in repercussions including but not limited to disallowing participation in current or future collaborative activities."
   },
   {
-    "objectID": "resources/policies/coc.html#when-where-and-to-whom-does-this-code-of-conduct-apply",
-    "href": "resources/policies/coc.html#when-where-and-to-whom-does-this-code-of-conduct-apply",
-    "title": "INvenTree Code of Conduct",
-    "section": "When, where and to whom does this Code of Conduct apply?",
-    "text": "When, where and to whom does this Code of Conduct apply?\nThis document applies to all members of INvenTree\nThis code applies to all INvenTree events - both online and in-person - including ancillary interactions, communications and social gatherings whether or not they are officially funded through INvenTree."
-  },
-  {
-    "objectID": "resources/policies/coc.html#purpose-of-this-document",
-    "href": "resources/policies/coc.html#purpose-of-this-document",
-    "title": "INvenTree Code of Conduct",
-    "section": "Purpose of this document",
-    "text": "Purpose of this document\nThis document is intended to ensure the safety of all members to foster mutual trust and to promote an inclusive, welcoming, and productive work environment. It does this by outlining best practices for interactions, reporting tools for when these are violated, and their consequences."
-  },
-  {
-    "objectID": "resources/policies/coc.html#acceptable-behaviours",
-    "href": "resources/policies/coc.html#acceptable-behaviours",
-    "title": "INvenTree Code of Conduct",
-    "section": "Acceptable behaviours",
-    "text": "Acceptable behaviours\nThe following is a non-exhaustive list of behaviours essential for a safe, inclusive and welcoming environment.\n\nExpected behaviours:\n\nTreat all participants with respect, kindness and consideration.\n\nAcknowledge diversity of opinions in the group and engage in constructive conversations that may critique ideas but not individuals.\n\nBe considerate in your interactions with others. Consider if your choice of words can be perceived as insulting or discriminatory.\n\nBe mindful of your “air-time”. Be aware of the dynamics of power and privilege, and whether you may be taking advantage of it.\n\nBe mindful of your surroundings and of your fellow participants and respect their boundaries.\n\nBe aware of and respect the rules and policies of the meeting venue/ host organisation and funding agencies.\n\nMembers are also expected to adhere to INvenTree’s Data Sharing Policy and project specific Collaboration Agreements (will be collaboratively drafted).\n\n\n\nUnacceptable behaviours\n\nHarassment, intimidation or discrimination in any form is unacceptable. Harassment includes speech or behavior that is not welcome or is personally offensive. Behavior that is acceptable to one person may not be acceptable to another, so use discretion to be sure respect is communicated. Verbal harassment includes comments, epithets, slurs, threats, and negative stereotyping that are offensive, hostile, disrespectful, or unwelcome.\nNon-verbal harassment includes actions or distribution, display, or discussion of any written or graphic material that ridicules, insults, belittles, or shows hostility, aversion, or disrespect toward a group or individual. The use of sexual and/or discriminatory images in public spaces or in presentations is also considered harassment.\n\nExamples of unacceptable behavior include—but are not limited to—unwelcome or offensive verbal comments related to age, appearance or body size, employment, career stage, ethnicity, gender identity and expression, individual lifestyle, marital status, national origin, physical or cognitive ability, political affiliation, sexual orientation, caste, race, or religion.\n\nRetaliation and reporting an incident in bad faith both undermine the safe, productive and welcoming environment we are striving to create and will also be subject to consequences."
-  },
-  {
-    "objectID": "resources/policies/coc.html#consequences",
-    "href": "resources/policies/coc.html#consequences",
-    "title": "INvenTree Code of Conduct",
-    "section": "Consequences",
-    "text": "Consequences\nThe organising committee of the INvenTree reserves the right to enforce this Code of Conduct in any manner deemed appropriate. Anyone violating this Code of Conduct will first be asked to cease these behaviours. Failure to comply with requests can result in more severe consequences including, but not limited to, expulsion from current meeting and prohibition from future meetings."
-  },
-  {
-    "objectID": "resources/policies/coc.html#reporting",
-    "href": "resources/policies/coc.html#reporting",
-    "title": "INvenTree Code of Conduct",
-    "section": "Reporting",
-    "text": "Reporting\nYou can report any violations to this code by writing to INvenTree email (inventree@gmail.com), Krishna Anujan (krishna.anujan@gmail.com), Neha Mohanbabu (nehamohanbabu@gmail.com). You can also report to the organisers of the particular meeting."
-  },
-  {
-    "objectID": "resources/policies/coc.html#disclaimers",
-    "href": "resources/policies/coc.html#disclaimers",
-    "title": "INvenTree Code of Conduct",
-    "section": "Disclaimers",
-    "text": "Disclaimers\nGiven our limitations, INvenTree cannot be responsible for the actions of INvenTree members outside of the INvenTree context, although we hope that members abide by respectful behaviours through all their professional and personal interactions. INvenTree also reserves the right to revise this Code of Conduct as needed.\nThis document has been adapted from various sources including LTER and NCEAS"
-  },
-  {
-    "objectID": "privacy.html",
-    "href": "privacy.html",
-    "title": "Privacy Policy",
+    "objectID": "resources/datasets/anujan_et_al_2025.html",
+    "href": "resources/datasets/anujan_et_al_2025.html",
+    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
     "section": "",
-    "text": "This website is maintained by the INvenTree team. The website does not collect any personal data from its users. But the website uses Google Analytics to collect information about how visitors use the site."
+    "text": "GitHub repository\nDataset\n\n\nExplore this dataset through an interactive dashboard"
   },
   {
-    "objectID": "posts/newsletter1.html#network-building",
-    "href": "posts/newsletter1.html#network-building",
-    "title": "Newsletter Issue 1 - August 2025",
+    "objectID": "resources/datasets/anujan_et_al_2025.html#important-links",
+    "href": "resources/datasets/anujan_et_al_2025.html#important-links",
+    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
+    "section": "",
+    "text": "GitHub repository\nDataset\n\n\nExplore this dataset through an interactive dashboard"
+  },
+  {
+    "objectID": "resources/datasets/anujan_et_al_2025.html#citation",
+    "href": "resources/datasets/anujan_et_al_2025.html#citation",
+    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@misc{anujan_inventree_2025,\n  title = {{{INvenTree}} Metadataset: Publications on Plot-Based Tree Inventories from {{India}}},\n  shorttitle = {{{INvenTree}} Metadataset},\n  author = {Anujan, Krishna and Mohanbabu, Neha and Gopal, Abhishek and Surendra, Akshay and Krishnan, Aparna and Jayanth, Ankitha and Nair, Tanaya and Ongole, Shasank and Sankaran, Mahesh},\n  year = 2025,\n  month = may,\n  publisher = {Zenodo},\n  doi = {10.5281/ZENODO.15358405},\n  urldate = {2026-04-04},\n  abstract = {INvenTree metadataset: publications on plot-based tree inventories from India},\n  copyright = {Creative Commons Attribution 4.0 International}\n}"
+  },
+  {
+    "objectID": "posts/newsletter2.html#network-building",
+    "href": "posts/newsletter2.html#network-building",
+    "title": "Newsletter Issue 2 - December 2025",
     "section": "Network Building",
-    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates from this year include:\n1. Website: We have launched our website which serves as a hub for information about the network, its members, and activities.\n2. Membership Drive: We have successfully grown our community to ~30 members from various institutions. We also launched our member directory to showcase the tree inventory community in India and to invite collaborations.\n3. Newsletter: This is the first issue of our newsletter, which will be published periodically to keep everyone informed about the network’s activities.\n\nPlanned activities:\nIn-person meeting: We are planning an in-person meeting in the coming months to foster collaboration and networking among members. Stay tuned for details!"
+    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates include:\n1. In-person meeting: The first in-person meeting of the India Tree Inventory Network will be held at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. This meeting aims to foster collaboration and networking among members.\n2. Meeting grant: The network received a meeting grant from the Anusandhan National Research Foundation (ANRF) to support the in-person meeting and related activities. This is the first grant received by the network!\n\nPlanned activities:\nPeriodic meetings: We plan to hold periodic meetings (in-person/virtual) to keep members engaged and updated on network activities. We will discuss the formats and needs further at the upcoming in-person meeting."
   },
   {
-    "objectID": "posts/newsletter1.html#public-data",
-    "href": "posts/newsletter1.html#public-data",
-    "title": "Newsletter Issue 1 - August 2025",
-    "section": "Public Data",
-    "text": "Public Data\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: We are developing a Shiny app to visualize and explore tree inventory data. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs.\n2. Zotero public library: We are working on a Zotero public library to share details of the publications that form the basis of the INvenTree metadataset. This will help members and the public discover and access tree inventory based research from India."
+    "objectID": "posts/newsletter2.html#data-visibility-and-accessibility",
+    "href": "posts/newsletter2.html#data-visibility-and-accessibility",
+    "title": "Newsletter Issue 2 - December 2025",
+    "section": "Data Visibility and Accessibility",
+    "text": "Data Visibility and Accessibility\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: A working version of a Shiny app to visualize and explore tree inventory data has been created. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs. This app will be launched and tested at the upcoming in-person meeting.\n2. Collating plot metadata: This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to indiainventree@gmail.com for details."
   },
   {
-    "objectID": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "href": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "title": "Newsletter Issue 1 - August 2025",
+    "objectID": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "href": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "title": "Newsletter Issue 2 - December 2025",
     "section": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!",
     "text": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!"
   },
   {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Policies",
+    "objectID": "posts/meeting2026.html",
+    "href": "posts/meeting2026.html",
+    "title": "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting",
     "section": "",
-    "text": "INvenTree projects are expected to adhere to the following policies. These policies are intended to ensure that our work is conducted in an ethical, inclusive, and responsible manner, and that it aligns with our values and goals as a community."
+    "text": "Building a nationwide understanding of India’s forests requires more than data—it requires community and collaboration. And being part of a community of people with shared values and visions is perhaps one of the most effective ways to produce meaningful research. This is true especially for a country as wide and vast in their ecology and culture as India. Therefore, hosting a gathering of researchers from across the country at National Centre for Biological Sciences in Bangalore, was an important step in forming the India Tree Inventory Network. A step that moves us closer in the direction towards our goals of synthesizing vegetation ecology in India openly and collaboratively.\n\n\n\nINvenTree meeting Day 1\n\n\nWe had 30 researchers across a range of institutions, areas of study, and career stages participate in an action-packed two-day programme of talks, discussions, and debates that spilt over generously into shared meals and breaks. We began with an introduction to INvenTree by Mahesh Sankaran, followed by Krishna Anujan outlining the paper metadata, and Neha Mohanbabu showcasing the INvenTree app and site-level metadata. These were complemented by invited talks on long-term ecological research and monitoring, as well as breakout discussions on research directions, data-sharing, capacity building and outreach to engage with the broader Indian ecology community, and the future of the network.\nWhat unfolded was a rich discussion that highlighted the barriers to sharing data openly, particularly with the global community, and the need for synthesis research to answer ecological questions in India in a way that benefits Indian researchers and data owners. We realized that by network building and communication, we can build trust, find ways to standardize and put together our vegetation datasets across biomes and geographies, to answer novel questions and test ecological and evolutionary theories.\n\n\n\nDiscussions on Research Directions\n\n\nOne of the highlights of day 1 was announcing the release of INvenTree Meta, an interactive metadatabase of published tree inventory data across India. These include plot data from studies published between 1990 to 2023, with annual updates. The metadata can be filtered, visualised on a map, and downloaded, and serves as a quick starting point for collaboration and to see what data is out there.\nAnother highlight from day 2, was the enthusiasm of the participants as they discussed what INvenTree could do to engage with the broader ecology community, such as hosting workshops for students on learning how to synthesise large datasets, and setting up open and reproducible workflows. Also, making protocols, field manuals, and methods related to ecological research available via articles and videos on the website. There was also a keen interest to collaborate with artists and design students to share stories of field researchers and their findings to inspire and educate people of all ages.\n\n\n\nDiscussions on Broader Impacts\n\n\nOur first in-person meeting served as a starting point to create a vision board for the network. But we hope the network will grow organically into something truly meaningful and impactful for the researchers within the network, and also for the broader community of people who will benefit from accessible ecological science.\nThe first INvenTree in-person meeting was supported by an ANRF meetings/symposia grant to convenor Mahesh Sankaran and co-convenor Krishna Anujan. The meeting organisation was led by the convenors with support from the rest of the INvenTree team - Neha Mohanbabu, Tanaya Nair, Aparna Krishnan and Ankitha Jayanth.\n\n\n\nINvenTree meeting Day 2"
   },
   {
-    "objectID": "policies.html#policies",
-    "href": "policies.html#policies",
-    "title": "Policies",
-    "section": "Policies",
-    "text": "Policies\n\n\n    \n        \n            \n                \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "policies.html#templates",
-    "href": "policies.html#templates",
-    "title": "Policies",
-    "section": "Templates",
-    "text": "Templates\n\n\n    \n        \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#how",
-    "href": "index.html#how",
-    "title": "The INdia Tree Inventory Network: INvenTree",
-    "section": "How?",
-    "text": "How?\n\nCollating tree data\nCollaborating among Indian scientists\nDistilling novel insights"
-  },
-  {
-    "objectID": "index.html#why",
-    "href": "index.html#why",
-    "title": "The INdia Tree Inventory Network: INvenTree",
-    "section": "Why",
-    "text": "Why\nOver the last few decades, Indian researchers have published over 450 papers using data from tree inventories across a large range of ecosystems.\nThese data have often been collected using standard methodologies and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection.\nWidening access to these data, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.\nRead our first preprint here"
-  },
-  {
-    "objectID": "attribution.html",
-    "href": "attribution.html",
-    "title": "Attribution",
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join us",
     "section": "",
-    "text": "This website has been created by the INvenTree team using several open-source tools and resources. Here is a list that we have used:\n1. Quarto\n2. Bootswatch\n3. Font Awesome\n4. Iconify\n5. Google Analytics\n6. GitHub Pages\n7. Andrew Heiss’s CC-BY Quarto website\n8. Nutshell"
+    "text": "If you are a student or researcher working on vegetation data in India and are interested in joining the INvenTree network or receiving updates on our newsletters, events, workshops, online resources, publications, and research projects, we would love to hear from you.\nReach out to us to stay connected and join the community.  indiainventree@gmail.com"
   },
   {
     "objectID": "coc.html",
@@ -196,60 +140,123 @@
     "text": "Disclaimers\nGiven our limitations, INvenTree cannot be responsible for the actions of INvenTree members outside of the INvenTree context, although we hope that members abide by respectful behaviours through all their professional and personal interactions. INvenTree also reserves the right to revise this Code of Conduct as needed.\nThis document has been adapted from various sources including LTER and NCEAS"
   },
   {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Get Involved",
+    "objectID": "attribution.html",
+    "href": "attribution.html",
+    "title": "Attribution",
     "section": "",
-    "text": "If you are a student or researcher working on vegetation data in India and are interested in joining the INvenTree network or receiving updates on our newsletters, events, workshops, online resources, publications, and research projects, we would love to hear from you.\nReach out to us to stay connected and join the community.  indiainventree@gmail.com"
+    "text": "This website has been created by the INvenTree team using several open-source tools and resources. Here is a list that we have used:\n1. Quarto\n2. Bootswatch\n3. Font Awesome\n4. Iconify\n5. Google Analytics\n6. GitHub Pages\n7. Andrew Heiss’s CC-BY Quarto website\n8. Nutshell"
   },
   {
-    "objectID": "posts/meeting2026.html",
-    "href": "posts/meeting2026.html",
-    "title": "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting",
-    "section": "",
-    "text": "Building a nationwide understanding of India’s forests requires more than data—it requires community and collaboration. And being part of a community of people with shared values and visions is perhaps one of the most effective ways to produce meaningful research. This is true especially for a country as wide and vast in their ecology and culture as India. Therefore, hosting a gathering of researchers from across the country at National Centre for Biological Sciences in Bangalore, was an important step in forming the India Tree Inventory Network. A step that moves us closer in the direction towards our goals of synthesizing vegetation ecology in India openly and collaboratively.\n\n\n\nINvenTree meeting Day 1\n\n\nWe had 30 researchers across a range of institutions, areas of study, and career stages participate in an action-packed two-day programme of talks, discussions, and debates that spilt over generously into shared meals and breaks. We began with an introduction to INvenTree by Mahesh Sankaran, followed by Krishna Anujan outlining the paper metadata, and Neha Mohanbabu showcasing the INvenTree app and site-level metadata. These were complemented by invited talks on long-term ecological research and monitoring, as well as breakout discussions on research directions, data-sharing, capacity building and outreach to engage with the broader Indian ecology community, and the future of the network.\nWhat unfolded was a rich discussion that highlighted the barriers to sharing data openly, particularly with the global community, and the need for synthesis research to answer ecological questions in India in a way that benefits Indian researchers and data owners. We realized that by network building and communication, we can build trust, find ways to standardize and put together our vegetation datasets across biomes and geographies, to answer novel questions and test ecological and evolutionary theories.\n\n\n\nDiscussions on Research Directions\n\n\nOne of the highlights of day 1 was announcing the release of INvenTree Meta, an interactive metadatabase of published tree inventory data across India. These include plot data from studies published between 1990 to 2023, with annual updates. The metadata can be filtered, visualised on a map, and downloaded, and serves as a quick starting point for collaboration and to see what data is out there.\nAnother highlight from day 2, was the enthusiasm of the participants as they discussed what INvenTree could do to engage with the broader ecology community, such as hosting workshops for students on learning how to synthesise large datasets, and setting up open and reproducible workflows. Also, making protocols, field manuals, and methods related to ecological research available via articles and videos on the website. There was also a keen interest to collaborate with artists and design students to share stories of field researchers and their findings to inspire and educate people of all ages.\n\n\n\nDiscussions on Broader Impacts\n\n\nOur first in-person meeting served as a starting point to create a vision board for the network. But we hope the network will grow organically into something truly meaningful and impactful for the researchers within the network, and also for the broader community of people who will benefit from accessible ecological science.\nThe first INvenTree in-person meeting was supported by an ANRF meetings/symposia grant to convenor Mahesh Sankaran and co-convenor Krishna Anujan. The meeting organisation was led by the convenors with support from the rest of the INvenTree team - Neha Mohanbabu, Tanaya Nair, Aparna Krishnan and Ankitha Jayanth.\n\n\n\nINvenTree meeting Day 2"
+    "objectID": "index.html#how",
+    "href": "index.html#how",
+    "title": "The INdia Tree Inventory Network: INvenTree",
+    "section": "How?",
+    "text": "How?\n\nCollating tree data\nCollaborating among Indian scientists\nDistilling novel insights"
   },
   {
-    "objectID": "posts/newsletter2.html#network-building",
-    "href": "posts/newsletter2.html#network-building",
-    "title": "Newsletter Issue 2 - December 2025",
+    "objectID": "index.html#why",
+    "href": "index.html#why",
+    "title": "The INdia Tree Inventory Network: INvenTree",
+    "section": "Why",
+    "text": "Why\nOver the last few decades, Indian researchers have published over 450 papers using data from tree inventories across a large range of ecosystems.\nThese data have often been collected using standard methodologies and collectively span large space and time ranges. When synthesised, they can provide strong baselines and unmatched insights into India’s ecosystems, beyond the constraints that limit primary ecological data collection.\nWidening access to these data, we want to identify gaps and offer broad-scale insights for future forest conservation, management and restoration.\nRead our first preprint here"
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "INvenTree projects are expected to adhere to the following policies. These policies are intended to ensure that our work is conducted in an ethical, inclusive, and responsible manner, and that it aligns with our values and goals as a community."
+  },
+  {
+    "objectID": "policies.html#policies",
+    "href": "policies.html#policies",
+    "title": "Policies",
+    "section": "Policies",
+    "text": "Policies\n\n\n    \n        \n            \n                \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                            \n                                        \n            \n            \n            \n                \n\n                        \n\n                                \n\n                                        \n                                            \n                                                \n                                                    \n                                                         Full details »\n                                                    \n                                                \n\n                                                \n                                            \n                                        \n            \n            \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "policies.html#templates",
+    "href": "policies.html#templates",
+    "title": "Policies",
+    "section": "Templates",
+    "text": "Templates\n\n\n    \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/newsletter1.html#network-building",
+    "href": "posts/newsletter1.html#network-building",
+    "title": "Newsletter Issue 1 - August 2025",
     "section": "Network Building",
-    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates include:\n1. In-person meeting: The first in-person meeting of the India Tree Inventory Network will be held at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. This meeting aims to foster collaboration and networking among members.\n2. Meeting grant: The network received a meeting grant from the Anusandhan National Research Foundation (ANRF) to support the in-person meeting and related activities. This is the first grant received by the network!\n\nPlanned activities:\nPeriodic meetings: We plan to hold periodic meetings (in-person/virtual) to keep members engaged and updated on network activities. We will discuss the formats and needs further at the upcoming in-person meeting."
+    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates from this year include:\n1. Website: We have launched our website which serves as a hub for information about the network, its members, and activities.\n2. Membership Drive: We have successfully grown our community to ~30 members from various institutions. We also launched our member directory to showcase the tree inventory community in India and to invite collaborations.\n3. Newsletter: This is the first issue of our newsletter, which will be published periodically to keep everyone informed about the network’s activities.\n\nPlanned activities:\nIn-person meeting: We are planning an in-person meeting in the coming months to foster collaboration and networking among members. Stay tuned for details!"
   },
   {
-    "objectID": "posts/newsletter2.html#data-visibility-and-accessibility",
-    "href": "posts/newsletter2.html#data-visibility-and-accessibility",
-    "title": "Newsletter Issue 2 - December 2025",
-    "section": "Data Visibility and Accessibility",
-    "text": "Data Visibility and Accessibility\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: A working version of a Shiny app to visualize and explore tree inventory data has been created. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs. This app will be launched and tested at the upcoming in-person meeting.\n2. Collating plot metadata: This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to indiainventree@gmail.com for details."
+    "objectID": "posts/newsletter1.html#public-data",
+    "href": "posts/newsletter1.html#public-data",
+    "title": "Newsletter Issue 1 - August 2025",
+    "section": "Public Data",
+    "text": "Public Data\nMembers: Neha Mohanbabu (lead), Aparna Krishnan, Ankitha Jayanth, Krishna Anujan\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: We are developing a Shiny app to visualize and explore tree inventory data. This will allow users to interact with the tree inventory metadataset that we have collated, filter and download for their needs.\n2. Zotero public library: We are working on a Zotero public library to share details of the publications that form the basis of the INvenTree metadataset. This will help members and the public discover and access tree inventory based research from India."
   },
   {
-    "objectID": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "href": "posts/newsletter2.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
-    "title": "Newsletter Issue 2 - December 2025",
+    "objectID": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "href": "posts/newsletter1.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "title": "Newsletter Issue 1 - August 2025",
     "section": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!",
     "text": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!"
   },
   {
-    "objectID": "resources/datasets/anujan_et_al_2025.html",
-    "href": "resources/datasets/anujan_et_al_2025.html",
-    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Privacy Policy",
     "section": "",
-    "text": "GitHub repository\nDataset\n\n\nExplore this dataset through an interactive dashboard"
+    "text": "This website is maintained by the INvenTree team. The website does not collect any personal data from its users. But the website uses Google Analytics to collect information about how visitors use the site."
   },
   {
-    "objectID": "resources/datasets/anujan_et_al_2025.html#important-links",
-    "href": "resources/datasets/anujan_et_al_2025.html#important-links",
-    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
+    "objectID": "resources/policies/coc.html",
+    "href": "resources/policies/coc.html",
+    "title": "INvenTree Code of Conduct",
     "section": "",
-    "text": "GitHub repository\nDataset\n\n\nExplore this dataset through an interactive dashboard"
+    "text": "The India Tree Inventory Network (INvenTree) is a voluntary network of researchers working on collecting, collating, synthesising and publishing on tree inventories in India."
   },
   {
-    "objectID": "resources/datasets/anujan_et_al_2025.html#citation",
-    "href": "resources/datasets/anujan_et_al_2025.html#citation",
-    "title": "INvenTree metadataset: publications on plot-based tree inventories from India",
-    "section": "Citation",
-    "text": "Citation\n\n Add to Zotero \n\n@misc{anujan_inventree_2025,\n  title = {{{INvenTree}} Metadataset: Publications on Plot-Based Tree Inventories from {{India}}},\n  shorttitle = {{{INvenTree}} Metadataset},\n  author = {Anujan, Krishna and Mohanbabu, Neha and Gopal, Abhishek and Surendra, Akshay and Krishnan, Aparna and Jayanth, Ankitha and Nair, Tanaya and Ongole, Shasank and Sankaran, Mahesh},\n  year = 2025,\n  month = may,\n  publisher = {Zenodo},\n  doi = {10.5281/ZENODO.15358405},\n  urldate = {2026-04-04},\n  abstract = {INvenTree metadataset: publications on plot-based tree inventories from India},\n  copyright = {Creative Commons Attribution 4.0 International}\n}"
+    "objectID": "resources/policies/coc.html#when-where-and-to-whom-does-this-code-of-conduct-apply",
+    "href": "resources/policies/coc.html#when-where-and-to-whom-does-this-code-of-conduct-apply",
+    "title": "INvenTree Code of Conduct",
+    "section": "When, where and to whom does this Code of Conduct apply?",
+    "text": "When, where and to whom does this Code of Conduct apply?\nThis document applies to all members of INvenTree\nThis code applies to all INvenTree events - both online and in-person - including ancillary interactions, communications and social gatherings whether or not they are officially funded through INvenTree."
+  },
+  {
+    "objectID": "resources/policies/coc.html#purpose-of-this-document",
+    "href": "resources/policies/coc.html#purpose-of-this-document",
+    "title": "INvenTree Code of Conduct",
+    "section": "Purpose of this document",
+    "text": "Purpose of this document\nThis document is intended to ensure the safety of all members to foster mutual trust and to promote an inclusive, welcoming, and productive work environment. It does this by outlining best practices for interactions, reporting tools for when these are violated, and their consequences."
+  },
+  {
+    "objectID": "resources/policies/coc.html#acceptable-behaviours",
+    "href": "resources/policies/coc.html#acceptable-behaviours",
+    "title": "INvenTree Code of Conduct",
+    "section": "Acceptable behaviours",
+    "text": "Acceptable behaviours\nThe following is a non-exhaustive list of behaviours essential for a safe, inclusive and welcoming environment.\n\nExpected behaviours:\n\nTreat all participants with respect, kindness and consideration.\n\nAcknowledge diversity of opinions in the group and engage in constructive conversations that may critique ideas but not individuals.\n\nBe considerate in your interactions with others. Consider if your choice of words can be perceived as insulting or discriminatory.\n\nBe mindful of your “air-time”. Be aware of the dynamics of power and privilege, and whether you may be taking advantage of it.\n\nBe mindful of your surroundings and of your fellow participants and respect their boundaries.\n\nBe aware of and respect the rules and policies of the meeting venue/ host organisation and funding agencies.\n\nMembers are also expected to adhere to INvenTree’s Data Sharing Policy and project specific Collaboration Agreements (will be collaboratively drafted).\n\n\n\nUnacceptable behaviours\n\nHarassment, intimidation or discrimination in any form is unacceptable. Harassment includes speech or behavior that is not welcome or is personally offensive. Behavior that is acceptable to one person may not be acceptable to another, so use discretion to be sure respect is communicated. Verbal harassment includes comments, epithets, slurs, threats, and negative stereotyping that are offensive, hostile, disrespectful, or unwelcome.\nNon-verbal harassment includes actions or distribution, display, or discussion of any written or graphic material that ridicules, insults, belittles, or shows hostility, aversion, or disrespect toward a group or individual. The use of sexual and/or discriminatory images in public spaces or in presentations is also considered harassment.\n\nExamples of unacceptable behavior include—but are not limited to—unwelcome or offensive verbal comments related to age, appearance or body size, employment, career stage, ethnicity, gender identity and expression, individual lifestyle, marital status, national origin, physical or cognitive ability, political affiliation, sexual orientation, caste, race, or religion.\n\nRetaliation and reporting an incident in bad faith both undermine the safe, productive and welcoming environment we are striving to create and will also be subject to consequences."
+  },
+  {
+    "objectID": "resources/policies/coc.html#consequences",
+    "href": "resources/policies/coc.html#consequences",
+    "title": "INvenTree Code of Conduct",
+    "section": "Consequences",
+    "text": "Consequences\nThe organising committee of the INvenTree reserves the right to enforce this Code of Conduct in any manner deemed appropriate. Anyone violating this Code of Conduct will first be asked to cease these behaviours. Failure to comply with requests can result in more severe consequences including, but not limited to, expulsion from current meeting and prohibition from future meetings."
+  },
+  {
+    "objectID": "resources/policies/coc.html#reporting",
+    "href": "resources/policies/coc.html#reporting",
+    "title": "INvenTree Code of Conduct",
+    "section": "Reporting",
+    "text": "Reporting\nYou can report any violations to this code by writing to INvenTree email (inventree@gmail.com), Krishna Anujan (krishna.anujan@gmail.com), Neha Mohanbabu (nehamohanbabu@gmail.com). You can also report to the organisers of the particular meeting."
+  },
+  {
+    "objectID": "resources/policies/coc.html#disclaimers",
+    "href": "resources/policies/coc.html#disclaimers",
+    "title": "INvenTree Code of Conduct",
+    "section": "Disclaimers",
+    "text": "Disclaimers\nGiven our limitations, INvenTree cannot be responsible for the actions of INvenTree members outside of the INvenTree context, although we hope that members abide by respectful behaviours through all their professional and personal interactions. INvenTree also reserves the right to revise this Code of Conduct as needed.\nThis document has been adapted from various sources including LTER and NCEAS"
   },
   {
     "objectID": "resources/pubs/anujan_et_al_2024.html",
