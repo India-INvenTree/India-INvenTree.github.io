@@ -2,32 +2,33 @@
 title: "INvenTree Agreement for Data Sharing and Collaboration in Projects"
 # title-block-banner: "#6ab04c"
 # title-block-banner-color: "#ffffff"
+author: "INvenTree Team"
 
 ---
 
-# Purpose and scope 
+## Purpose and scope 
 This document sets expectations for cooperation, trust, and responsible practice among parties participating in data sharing and/or collaborative projects via INvenTree. In this policy, we are guided by our four operating principles - FAIR data, fair sharing, reproducible methods and collaborative learning.
 
-# When, where and to whom does this policy apply?
+## When, where and to whom does this policy apply?
 Agreement with this policy is required for all individuals accessing datasets, sharing ideas, or collaborating on projects that emerged through activities organised and/or funded by the INvenTree network (e.g. in-person or online meetings). This policy does not apply/cannot be enforced for projects that arise through collaborations made within the INvenTree network, without explicit INvenTree support. However, if such projects use support of the INvenTree Team, e.g. for data wrangling or reproducibility skills, this policy shall apply. 
 
 All activities conducted as part of INvenTree are subject to the [INvenTree Code of Conduct](http://india-inventree.github.io/coc.html){target="_blank"}. The INvenTree team reserves the right to alter policies and edit this document as needed, with information to active projects.
 
-# Definitions
+## Definitions
 1. **Data originator(s)** - individuals who have made substantial contributions to data collection, curation, or maintenance
 2. **Data user(s)** - individuals requesting use of data from data originators as part of collaborative projects with specific outputs
 3. **Project participant** - any participant in a given collaborative project, regardless of their role
 4. **INvenTree team** - voluntary group of individuals organising and managing activities as part of the India Tree Inventory Network
 5. **Private data** - Any dataset that does not meet FAIR standards, either privately stored or publicly accessible but without sufficient reusability aspects e.g. license, clear metadata.
 
-# Data sharing and compliance
+## Data sharing and compliance
 1. Data originators commit to sharing private data with the data user(s) within the timeframe discussed and agreed upon.
 2. All project participants commit to meeting applicable journal and funder requirements (including FAIR data principles).
 3. Ensuring dataset quality and clear metadata is the responsibility of data originators; INvenTree will not be responsible for ensuring data quality.
 4. Data users should verify the readiness and level of detail of private data intended for eventual publication with the data originator.
 5. Data originators may choose to directly share their datasets openly, freely and publicly in data repositories. While Inventree respects the choices of the data originators, we encourage data originators to work with data users to make data Findable, Accessible, Interoperable, and Reusable (FAIR) to whatever extent possible.
 
-# Confidentiality, storage, and permitted use
+## Confidentiality, storage, and permitted use
 1. Use of datasets made publicly available by INvenTree members will not require additional permissions, but will be subject to the terms of the license under which the dataset is made available.
 2. Shared private data must not be disclosed to outside parties or uploaded to external services without explicit authorization. This includes generative AI platforms (for example, ChatGPT, ColabAI) and other third‑party systems.
 3. All shared private data must be stored securely and must not be copied or transferred without the consent of the data originators.
@@ -35,7 +36,7 @@ All activities conducted as part of INvenTree are subject to the [INvenTree Code
 5. The default exclusive use period for shared private datasets is three years; participants should reach out before agreeing to participate if they would like a different duration or case‑by‑case arrangements.
 6. Any project participant engaged in a project covered by this document, should avoid participating in other projects with the same dataset and questions while the project is active. Disclose and discuss any potential conflicts of interest in conceptual framing with the lead author.
 
-# Attribution and authorship
+## Attribution and authorship
 
 1. All data originators, including those who have shared their data publicly, should be invited to collaborate and, where appropriate, offered co‑authorship on outputs arising from use of their data. Data originators may choose to accept or decline coauthorship.
 2. Contributing a dataset to INvenTree, or transferring data between INvenTree members, does not transfer intellectual property rights.
@@ -46,21 +47,21 @@ All activities conducted as part of INvenTree are subject to the [INvenTree Code
    - Assisting with data analysis; and
    - Contributing to manuscript preparation.
 
-# Citation
+## Citation
 Cite the INvenTree network in reports or articles using the agreed citation format.
 
-# Transparency and reproducibility
+## Transparency and reproducibility
 1. INvenTree projects agree to make information on the scope of the project - including questions/aims, hypotheses, datasets used and participants - available to all INvenTree members. The INvenTree Team will maintain a log of ongoing project details for all members to view.
 2. Projects should adopt reproducible workflows from the outset: use code for data cleaning, share analysis code, apply version control, and maintain data change logs or diffs.
 3. The INvenTree Team can provide support with R, GitHub, and reproducible workflows upon request.
 4. Data users must keep all project participants informed at all stages and submit the final draft of the manuscript or other output, including a complete list of datasets used, to all project participants for final checks on data sharing agreements before submission.
 5. Notify the INvenTree Team of any outputs, e.g. reports, preprints, or publications, that arise from INvenTree data or projects.
 
-# Inclusivity and capacity building
+## Inclusivity and capacity building
 1. Early‑career researchers (ECRs) are encouraged to take leadership roles and receive mentorship within INvenTree collaborations.
 2. INvenTree projects will strive to have paired joint lead authors comprising one early career and one more experienced researcher, for capacity and responsibility sharing.
 3. Faculty and group leaders are encouraged to involve PhD and masters students from their labs in INvenTree projects they are involved in.
 4. To distribute responsibility and include diverse contributions, we recommend that members take on leadership roles in no more than one INvenTree project at a given time.
 
-# Reporting and consequences
+## Reporting and consequences
 Any violations of this policy should be reported to [indiainventree@gmail.com](mailto:indiainventree@gmail.com) and shall result in repercussions including but not limited to disallowing participation in current or future collaborative activities.

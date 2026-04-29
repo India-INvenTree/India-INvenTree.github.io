@@ -4,12 +4,14 @@ listing:
   - id: policies
     contents: "resources/policies/*.qmd"
     sort: "date desc"
-    template: html/listing.ejs
-    categories: true
+    # template: html/listing.ejs
+    categories: false
+    type: table
   - id: templates
     contents: "resources/templates/*.qmd"
     sort: "date desc"
-    template: html/listing.ejs
+    type: table
+    # template: html/listing.ejs
 page-layout: full
 include-back-link: false
 toc-location: right
