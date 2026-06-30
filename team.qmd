@@ -34,9 +34,9 @@ Sharing tools and techniques among forest researchers in India.
 :::
 ::: {.g-col-9 .center-vertical}
 **Krishna Anujan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://krishnaanujan.github.io)  
+**Lead, Network Building Team**
 Postdoctoral Fellow  
 ForestGEO and Smithsonian Institution  
-Working Group Lead  
 :::
 :::
 
@@ -46,9 +46,9 @@ Working Group Lead
 :::
 ::: {.g-col-9 .center-vertical}
 **Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://neha-mohanbabu.weebly.com/)  
+**Lead, Data Visibility Team**
 Postdoctoral researcher  
 Utrecht University  
-Working Group Lead  
 :::
 :::
 
@@ -138,10 +138,4 @@ Our current work is built on the incredible foundation laid by many others.
 
 [Browse full member directory](https://india-inventree.github.io/members/){.btn .btn-primary}
 ::: 
-<!-- 
-     
 
-### Past members
-
-1. Akshay Surendra
-2. Shasank Ongole -->
