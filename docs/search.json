@@ -4,7 +4,7 @@
     "href": "updates.html",
     "title": "Updates",
     "section": "",
-    "text": "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 1 - August 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 2 - December 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 1 - August 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 2 - December 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 3 - June 2026\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -368,6 +368,27 @@
     "href": "team.html",
     "title": "Who We Are",
     "section": "",
-    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nWorking group\n\n\n\n\n\nKrishna Anujan \nLead, Network Building Team\nPostdoctoral Fellow\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nLead, Data Visibility Team\nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\nWorking Group Lead\n\n\n\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nNasla Najeeb\nPhD Scholar\nBITS Pilani Goa Campus\n\n\n\n\n\n\n\nKarun Jose\nProject Scientist\nInstitute for Climate Change Studies\n\n\n\nOur current work is built on the incredible foundation laid by many others.\nView past working group members\nBrowse full member directory"
+    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nOrganisational Team\n\n\n\n\n\nKrishna Anujan \nLead, Network Building Team\nPostdoctoral Fellow\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nLead, Data Visibility Team\nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\nWorking Group Lead\n\n\n\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nNasla Najeeb\nPhD Scholar\nBITS Pilani Goa Campus\n\n\n\n\n\n\n\nKarun Jose\nProject Scientist\nInstitute for Climate Change Studies\n\n\n\nOur current work is built on the incredible foundation laid by many others.\nView past working group members\nBrowse full member directory"
+  },
+  {
+    "objectID": "posts/newsletter3.html#network-building",
+    "href": "posts/newsletter3.html#network-building",
+    "title": "Newsletter Issue 3 - June 2026",
+    "section": "Network Building",
+    "text": "Network Building\nMembers: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Nasla Najeeb, Karun Jose, Mahesh Sankaran\nThis working group is focussed on building the network and engaging with members. Updates include:\n1. In-person meeting: The first in-person meeting of the India Tree Inventory Network was organised at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. Read the full report here. 2. Seeking early career members: We are actively reaching out to new student and early career members to join the network. If you mentor or collaborate with students or postdocs who might benefit from this community, please put them in touch with us at indiainventree@gmail.com 3. Group policies: Following the meeting, we have drafted a collaboration policy for participating in network projects. Please review the document here: Collaboration Policy.\n\nPlanned activities:\nResearch papers: We plan to further the research themes identified at the in-person meeting. Many groups have conducted one or two meetings. The network building team will support the collaborative activities of these groups along with the Data Visibility Team."
+  },
+  {
+    "objectID": "posts/newsletter3.html#data-visibility",
+    "href": "posts/newsletter3.html#data-visibility",
+    "title": "Newsletter Issue 3 - June 2026",
+    "section": "Data Visibility",
+    "text": "Data Visibility\nMembers: Neha Mohanbabu (lead), Krishna Anujan, Nasla Najeeb, Karun Jose\nThis working group is focused on making collated datasets accessible and reusable. Current and planned projects:\n1. Shiny app: The firsr Shiny app to visualise INvenTree metadata was launched at the INvenTree in-person meeting! Explore and download the data here. 2. Collating plot metadata: This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to indiainventree@gmail.com for details."
+  },
+  {
+    "objectID": "posts/newsletter3.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "href": "posts/newsletter3.html#have-you-published-a-paper-with-tree-inventories-recently-write-to-us-at-indiainventreegmail.com-and-well-send-it-around",
+    "title": "Newsletter Issue 3 - June 2026",
+    "section": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!",
+    "text": "Have you published a paper with tree inventories recently? Write to us at indiainventree@gmail.com and we’ll send it around!"
   }
 ]

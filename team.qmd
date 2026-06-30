@@ -26,7 +26,7 @@ We aim to make all our processes transparent and reproducible through GitHub.
 #### [:Collaborative learning](#Collaborative-learning)
 Sharing tools and techniques among forest researchers in India.
 
-### Working group
+### Organisational Team
 
 ::: {.grid}
 ::: {.g-col-3}
