@@ -47,9 +47,9 @@ Do check out our [member directory](https://india-inventree.github.io/members/) 
 Members: Krishna Anujan (lead), Neha Mohanbabu, Tanaya Nair, Nasla Najeeb, Karun Jose, Mahesh Sankaran  
 
 This working group is focussed on building the network and engaging with members. Updates include:  
-1. **In-person meeting**: The first in-person meeting of the India Tree Inventory Network was organised at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. Read the full report [here](https://india-inventree.github.io/posts/meeting2026.html).
-2. **Seeking early career members**: We are actively reaching out to new student and early career members to join the network. If you mentor or collaborate with students or postdocs who might benefit from this community, please put them in touch with us at [indiainventree@gmail.com](mailto:indiainventree@gmail.com)
-3. **Group policies**: Following the meeting, we have drafted a collaboration policy for participating in network projects. Please review the document here: [Collaboration Policy](https://india-inventree.github.io/resources/policies/collab.html). 
+1. **In-person meeting**: The first in-person meeting of the India Tree Inventory Network was organised at the National Centre for Biological Sciences, Bengaluru from 16-17 January 2026. Read the full report [here](https://india-inventree.github.io/posts/meeting2026.html).  
+2. **Seeking early career members**: We are actively reaching out to new student and early career members to join the network. If you mentor or collaborate with students or postdocs who might benefit from this community, please put them in touch with us at [indiainventree@gmail.com](mailto:indiainventree@gmail.com)  
+3. **Group policies**: Following the meeting, we have drafted a collaboration policy for participating in network projects. Please review the document here: [Collaboration Policy](https://india-inventree.github.io/resources/policies/collab.html).   
  
 
 
@@ -65,7 +65,7 @@ Planned activities:
 Members: Neha Mohanbabu (lead), Krishna Anujan, Nasla Najeeb, Karun Jose  
 
 This working group is focused on making collated datasets accessible and reusable. Current and planned projects:  
-1. **Shiny app**: The firsr Shiny app to visualise INvenTree metadata was launched at the INvenTree in-person meeting! Explore and download the data [here](https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/).
+1. **Shiny app**: The firsr Shiny app to visualise INvenTree metadata was launched at the INvenTree in-person meeting! Explore and download the data [here](https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/).  
 2. **Collating plot metadata:** This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to [indiainventree@gmail.com](mailto:indiainventree@gmail.com) for details. 
 
 ------------------
