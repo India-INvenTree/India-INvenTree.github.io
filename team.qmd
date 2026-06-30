@@ -34,7 +34,7 @@ Sharing tools and techniques among forest researchers in India.
 :::
 ::: {.g-col-9 .center-vertical}
 **Krishna Anujan** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://krishnaanujan.github.io)  
-**Lead, Network Building Team**
+**Lead, Network Building Team**  
 Postdoctoral Fellow  
 ForestGEO and Smithsonian Institution  
 :::
@@ -46,7 +46,7 @@ ForestGEO and Smithsonian Institution
 :::
 ::: {.g-col-9 .center-vertical}
 **Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://neha-mohanbabu.weebly.com/)  
-**Lead, Data Visibility Team**
+**Lead, Data Visibility Team**  
 Postdoctoral researcher  
 Utrecht University  
 :::
