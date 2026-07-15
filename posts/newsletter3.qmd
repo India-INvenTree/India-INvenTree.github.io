@@ -2,6 +2,7 @@
 # title: "India Tree Inventory Network (INvenTree)"
 title: "Newsletter Issue 3 - June 2026"
 format: html
+embed-resources: true
 categories:
  - newsletter
 citeproc: true
@@ -65,7 +66,7 @@ Planned activities:
 Members: Neha Mohanbabu (lead), Krishna Anujan, Nasla Najeeb, Karun Jose  
 
 This working group is focused on making collated datasets accessible and reusable. Current and planned projects:  
-1. **Shiny app**: The firsr Shiny app to visualise INvenTree metadata was launched at the INvenTree in-person meeting! Explore and download the data [here](https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/).  
+1. **Shiny app**: The first Shiny app to visualise INvenTree metadata was launched at the INvenTree in-person meeting! Explore and download the data [here](https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/).  
 2. **Collating plot metadata:** This group is currently collating metadata on one-time and repeat census tree inventory plots in India. This will contribute to discussions on collaborative research. If you are a data owner or plot data manager with plot metadata that you would like to contribute, please reach out to [indiainventree@gmail.com](mailto:indiainventree@gmail.com) for details. 
 
 ------------------
