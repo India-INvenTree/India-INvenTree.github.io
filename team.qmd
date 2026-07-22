@@ -45,7 +45,7 @@ ForestGEO and Smithsonian Institution
 ![](assets/nmb.jpg){.circular-photo}
 :::
 ::: {.g-col-9 .center-vertical}
-**Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://neha-mohanbabu.weebly.com/)  
+**Neha Mohanbabu** [{{< iconify bi mdi:web size=1.1em title='Website' >}}](https://nehamohanbabu.github.io/)  
 **Lead, Data Visibility Team**  
 Postdoctoral researcher  
 Utrecht University  
