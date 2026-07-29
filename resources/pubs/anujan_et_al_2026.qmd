@@ -1,5 +1,5 @@
 ---
-title: "Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology"
+title: "Harmonizing distributed tree inventory datasets across India can fill critical gaps in tropical ecology"
 date: 2026-04-15
 author:
   - name: Krishna Anujan
@@ -45,7 +45,7 @@ author:
 #   - prediction
 pub-info:
   reference: >-
-    Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonising distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> in revision (2025), doi: <a href="https://doi.org/10.1101/2024.05.18.594774v1"><code>10.1101/2024.05.18.594774v1</code></a>
+    Krishna Anujan, Neha Mohanbabu, Abhishek Gopal, Akshay Surendra, Aparna Krishnan, Ankitha Jayanth, Tanaya Nair, Shasank Ongole, Mahesh Sankaran, “Harmonizing distributed tree inventory datasets across India can fill critical gaps in tropical ecology,” <em>Biotropica</em> (2026), doi: <a href="https://doi.org/10.1111/btp.70236"><code>10.1111/btp.70236</code></a>
   links:
     - name: Preprint
       url: https://www.biorxiv.org/content/10.1101/2024.05.18.594774v1
@@ -54,8 +54,11 @@ pub-info:
     - name: Final version
       url: https://onlinelibrary.wiley.com/doi/10.1111/btp.70236
       icon: fa-solid fa-scroll
+    - name: Dataset
+      url: https://doi.org/10.5281/zenodo.15358405
+      icon: iconify mdi:database
     - name: Code
-      url: https://github.com/vincentarelbundock/mfxplainer
+      url: https://doi.org/10.5281/zenodo.20827852
       icon: iconify mdi:github
     # - name: Add to Zotero
     #   url: https://www.zotero.org/save?type=doi&q=10.18637/jss.v111.i09
