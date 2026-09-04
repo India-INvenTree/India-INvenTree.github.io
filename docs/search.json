@@ -4,7 +4,7 @@
     "href": "updates.html",
     "title": "Updates",
     "section": "",
-    "text": "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 1 - August 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 2 - December 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 3 - June 2026\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 1 - August 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 2 - December 2025\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNewsletter Issue 3 - June 2026\n\n\n\n\n\n\nnewsletter\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead the first INvenTree paper and explore its data!\n\n\n\n\n\n\ngeneral\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -382,6 +382,27 @@
     "href": "team.html",
     "title": "Who We Are",
     "section": "",
-    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\nOur Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India.\n\n\n\nOrganisational Team\n\n\n\n\n\nKrishna Anujan \nLead, Network Building Team\nPostdoctoral Fellow\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nLead, Data Visibility Team\nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\nWorking Group Lead\n\n\n\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nNasla Najeeb\nPhD Scholar\nBITS Pilani Goa Campus\n\n\n\n\n\n\n\nKarun Jose\nProject Scientist\nInstitute for Climate Change Studies\n\n\n\nOur current work is built on the incredible foundation laid by many others.\nView past working group members\nBrowse full member directory"
+    "text": "We are a team of researchers across institutions who have been volunteering our time.\n\n\n\nOrganisational Team\n\n\n\n\n\nKrishna Anujan \nLead, Network Building Team\nPostdoctoral Fellow\nForestGEO and Smithsonian Institution\n\n\n\n\n\n\n\nNeha Mohanbabu \nLead, Data Visibility Team\nPostdoctoral researcher\nUtrecht University\n\n\n\n\n\n\n\nMahesh Sankaran \nNational Centre for Biological Sciences\nWorking Group Lead\n\n\n\n\n\n\n\n\n\n\nTanaya Nair \nPhD Student, School of Geography and the Environment\nUniversity of Oxford\n\n\n\n\n\n\n\nNasla Najeeb\nPhD Scholar\nBITS Pilani Goa Campus\n\n\n\n\n\n\n\nKarun Jose\nProject Scientist\nInstitute for Climate Change Studies\n\n\n\nOur current work is built on the incredible foundation laid by many others.\nView past working group members\nBrowse full member directory"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The INdia Tree Inventory Network: INvenTree",
+    "section": "",
+    "text": "3400 Plots 46 People 465 Papers"
+  },
+  {
+    "objectID": "index.html#our-values",
+    "href": "index.html#our-values",
+    "title": "The INdia Tree Inventory Network: INvenTree",
+    "section": "Our Values",
+    "text": "Our Values\n\n:FAIR data\nMaking forest data from India Findable, Accessible, Interoperable and Reusable. Read more about the FAIR guidelines.\n\n\n:Fair sharing\nCommitting to data sharing practices that center data owners, especially in India.\n\n\n:Reproducible methods\nWe aim to make all our processes transparent and reproducible through GitHub.\n\n\n:Collaborative learning\nSharing tools and techniques among forest researchers in India."
+  },
+  {
+    "objectID": "posts/metadata_paper_explorer.html",
+    "href": "posts/metadata_paper_explorer.html",
+    "title": "Read the first INvenTree paper and explore its data!",
+    "section": "",
+    "text": "We are excited to announce two major milestones for the India Tree Inventory Network – our first publication and its companion metadata explorer dashboard!\nThe first paper from INvenTree has been published in Biotropica! The paper, titled “Harmonizing Distributed Tree Inventory Datasets Across India Can Fill Critical Gaps in Tropical Ecology”, has been a collaborative effort in the making for a few years now. This paper catalogues a metadatabase of published tree inventory studies across India and associated metadata.\n\n\n\n\n\n\nNote\n\n\n\nKey takeaways:\n- Published tree inventories from India span over 465 km^2 and all of India’s tree-d biomes.\n- Only a very small proportion of these datasets are openy available in some form, and a much smaller fraction meets reproducibility standards.\n- However, the majority of authors and potential data owners are based in India, motivating the need for a network that can facilitate data sharing and synthesis in India.\n\n\n\nRead the paper Download pdf\n\nThe INvenTree Data Visibility Team has also developed a metadata explorer dashboard from the assembled metadatabase. With this database you can find studies of interest by filtering regions, biomes and more!\n\nLaunch the dashboard\n\nPlease help spread the word among your networks.\nWe would love to hear your feedback on the dashboard and the paper. Please reach out to us at india-inventree@gmail.com."
   }
 ]
