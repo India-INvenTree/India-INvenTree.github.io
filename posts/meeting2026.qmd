@@ -2,6 +2,7 @@
 title: "From Plots to Possibilities: Advancing Tree Inventory Research in India through the first in-person INvenTree meeting" 
 categories: 
  - general
+date: 2026-06-30
 ---
 
 Building a nationwide understanding of India’s forests requires more than data—it requires community and collaboration. And being part of a community of people with shared values and visions is perhaps one of the most effective ways to produce meaningful research. This is true especially for a country as wide and vast in their ecology and culture as India. Therefore, hosting a gathering of researchers from across the country at National Centre for Biological Sciences in Bangalore, was an important step in forming the India Tree Inventory Network. A step that moves us closer in the direction towards our goals of synthesizing vegetation ecology in India openly and collaboratively. 

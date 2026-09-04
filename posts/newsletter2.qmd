@@ -15,6 +15,7 @@ margin-right: 0.5cm
 # margin-top: 1.5cm
 title-block-banner: assets/tree_zoom.jpg
 title-block-banner-color: "#080000"
+date: 2025-12-15
 ---
 
 <!-- :::{.block fill=rgb("#08392b") inset="8pt" radius="4pt" width="100%"}

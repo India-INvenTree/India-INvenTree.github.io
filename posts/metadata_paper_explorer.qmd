@@ -2,6 +2,7 @@
 title: "Read the first INvenTree paper and explore its data!" 
 categories: 
  - general
+date: 2026-09-04
 ---
 
 We are excited to announce two major milestones for the India Tree Inventory Network -- **our first publication and its companion metadata explorer dashboard**! 
@@ -26,7 +27,7 @@ The INvenTree Data Visibility Team has also developed a metadata explorer dashbo
 With this database you can find studies of interest by filtering regions, biomes and more!
 
 :::{.center-text}
-[Launch the dashboard](https://inventure.shinyapps.io/metadata_explorer/){ .btn .btn-primary target="_blank"}
+[Launch the dashboard](https://inventree-paper-explorer.shinyapps.io/inventree_explore_papers_app/){ .btn .btn-primary target="_blank"}
 :::
 
 Please help spread the word among your networks.
