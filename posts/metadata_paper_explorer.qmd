@@ -9,6 +9,8 @@ We are excited to announce two major milestones for the India Tree Inventory Net
 
 The first paper from INvenTree has been published in *Biotropica*! The paper, titled *"Harmonizing Distributed Tree Inventory Datasets Across India Can Fill Critical Gaps in Tropical Ecology"*, has been a collaborative effort in the making for a few years now. This paper catalogues a metadatabase of published tree inventory studies across India and associated metadata.   
 
+![Figure 1 from Anujan et al. 2026: INvenTree metadata spread](assets/Fig1_combined.png)
+
 :::{.callout-note}
 Key takeaways:  
 - Published tree inventories from India span over 465 km^2 and all of India's tree-d biomes.  
