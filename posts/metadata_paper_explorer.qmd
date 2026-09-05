@@ -5,9 +5,10 @@ categories:
 date: 2026-09-04
 ---
 
-We are excited to announce two major milestones for the India Tree Inventory Network -- **our first publication and its companion metadata explorer dashboard**! 
+We are excited to announce two major milestones for the India Tree Inventory Network -- **our first publication and an explorer dashboard** based on the metadataset of published plot-based tree inventories from India! 
 
-The first paper from INvenTree has been published in *Biotropica*! The paper, titled *"Harmonizing Distributed Tree Inventory Datasets Across India Can Fill Critical Gaps in Tropical Ecology"*, has been a collaborative effort in the making for a few years now. This paper catalogues a metadatabase of published tree inventory studies across India and associated metadata.   
+The first paper from INvenTree has been published in *Biotropica*! The paper, titled *"Harmonizing Distributed Tree Inventory Datasets Across India Can Fill Critical Gaps in Tropical Ecology"*, has been a collaborative effort in the making for a few years now. 
+In this paper, we assembled the first and most extensive dataset of published studies on tree inventories across India and assessed publication patterns and gaps.  
 
 ![Figure 1 from Anujan et al. 2026: INvenTree metadata spread](assets/Fig1_combined.png)
 
@@ -25,7 +26,7 @@ Key takeaways:
 [Download pdf](../resources/pubs/pdfs/Anujan_et_al_2026_Biotropica.pdf){.btn .btn-primary target="_blank"}
 :::
 
-The INvenTree Data Visibility Team has also developed a metadata explorer dashboard from the assembled metadatabase. 
+The INvenTree Data Visibility Team has also developed an explorer dashboard from the assembled metadataset of published plot-based tree inventories from India. 
 With this database you can find studies of interest by filtering regions, biomes and more!
 
 :::{.center-text}
